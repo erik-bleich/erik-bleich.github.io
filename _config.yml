@@ -18,11 +18,9 @@ phone: (716) 555-5555
 facebook_url:
 github_url: https://github.com/erik-bleich
 gitlab_url: https://gitlab.com/u/erik-bleich
-googleplus_url:
-instagram_url:
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+
+include: ["_pages"]
+permalink: /:title/
 
 # build settings
 markdown: kramdown
