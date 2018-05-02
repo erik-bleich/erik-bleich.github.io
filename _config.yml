@@ -21,7 +21,6 @@ gitlab_url: https://gitlab.com/u/erik-bleich
 
 include: ["_pages"]
 permalink: /:title/
-exclude: "./_site"
 
 # build settings
 markdown: kramdown
