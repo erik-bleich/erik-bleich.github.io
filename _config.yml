@@ -19,7 +19,7 @@ facebook_url:
 github_url: https://github.com/erik-bleich
 gitlab_url: https://gitlab.com/u/erik-bleich
 
-include: ["_pages"]
+# include: ["_pages"]
 permalink: /:title/
 
 # build settings

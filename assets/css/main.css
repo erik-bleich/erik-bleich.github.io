@@ -3005,7 +3005,7 @@
 			}
 
 		.pagination a.active {
-			background-color: #eeeeee;
+			background-color: #F26430;
 		}
 
 	.pagination span {
@@ -4102,6 +4102,7 @@
 
 						#footer > section.split.contact > section.alt > :last-child {
 							margin-top: -0.325rem;
+							color: #717981;
 						}
 
 		#footer form label,
