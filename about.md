@@ -17,7 +17,7 @@ title: About MPOMP
 <p>Erik Bleich is the director of the Media Portrayals of Minorities Project. He is Charles A. Dana Professor of political science at Middlebury College. Bleich publishes widely on race and ethnicity in liberal democracies, and is the co-editor of Migrants, Minorities and the Media: Information, Representations and Participation in the Public Sphere. His work has also appeared in The Atlantic, Al Jazeera English, Asahi Shimbun, The Conversation, the Financial Times, the Guardian, the Huffington Post, Prospect Magazine, and the Washington Post. He has been an invited guest on NPR’s Here and Now, WNYC’s Brian Lehrer show, France 24, Danish Public Radio, CBC Radio’s Day 6, and BBC World Service’s The Inquiry.</p>
 
 <h3>A. Maurits van der Veen</h3>
-<img src="/assets/images/bio-pics/maurits.jpg" alt="" height="300px" width="375px"/>
+<img src="/assets/images/bio-pics/maurits.jpg" alt="" height="300px" width="250px"/>
 <p>A. Maurits van der Veen is a faculty affiliate of the Media Portrayals of Minorities Project. He is Associate Professor of Government at William & Mary, where he directs the STAIR lab. He develops text analysis procedures that we use in Media Portrayals of Minorities Project research and is a co-author on numerous MPoMP research projects.</p>
 
 <h3>Rand Jibril</h3>

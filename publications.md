@@ -32,4 +32,14 @@ title: Publications
 
       <dd>“The Effect of Terrorist Events on Media Portrayals of Islam and Muslims: Evidence from New York Times Headlines, 1985-2013,” Erik Bleich, Hasher Nisar and Rana Abdelhamid, Ethnic and Racial Studies, 39, 7, 2016: 1109-27</dd>
     </dl>
+
+    <!-- Post -->
+    <header class="major">
+        <!-- <span class="date"></span> -->
+    </header>
+    <hr>
+    <h3>Media Publications</h3>
+    <dl>
+      <dd><a href="http://digital.vpr.net/post/bleich-media-marches-and-muslims#stream/0">“The Media, Marches, and Muslims,” Vermont Public Radio Commentary, February 6, 2017</a></dd>
+    </dl>
 </section>
