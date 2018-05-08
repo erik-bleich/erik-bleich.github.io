@@ -3,7 +3,16 @@
 <!-- Nav -->
 <nav id="nav">
 		<ul class="links">
-        {% for page in site.pages %}
+			{% for page in site.pages %}
+			{% if page.layout == "home" %}
+			<li{% if current_page == page.url %} class="active"{% endif %}><a href="/">{{ page.title }}</a></li>
+			{% endif %}
+			{% endfor %}
+			<li{% if current_page == page.url %} class="active"{% endif %}><a href="/about">About MPOMP</a></li>
+			<li{% if current_page == page.url %} class="active"{% endif %}><a href="/media-contributions">Media Contributions</a></li>
+			<li{% if current_page == page.url %} class="active"{% endif %}><a href="/publications">Publications</a></li>
+			<li{% if current_page == page.url %} class="active"{% endif %}><a href="/mpomplab">MPOMP Lab</a></li>
+			<!-- {% for page in site.pages %}
 		    {% if page.layout == "home" %}
 		    <li{% if current_page == page.url %} class="active"{% endif %}><a href="{{ "" | absolute_url }}">{{ page.title }}</a></li>
 	    	{% endif %}
@@ -12,7 +21,7 @@
 	    	{% if page.layout != "home" %}
 		    <li{% if current_page == page.url %} class="active"{% endif %}><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		    {% endif %}
-		    {% endfor %}
+		    {% endfor %} -->
 		</ul>
 		<ul class="icons">
 				{% if site.twitter_url %}
