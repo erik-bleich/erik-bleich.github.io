@@ -19,7 +19,7 @@ title: About MPOMP
 
     <h3>A. Maurits van der Veen</h3>
     <img class="bio-img" src="/assets/images/bio-pics/maurits.jpg" alt="" height="350px" width="250px"/>
-    <p class="bio-text">A. Maurits van der Veen is a faculty affiliate of the Media Portrayals of Minorities Project. He is Associate Professor of Government at William & Mary, where he directs the <a href="https://stair.wm.edu/">STAIR lab</a>. He develops text analysis procedures that we use in Media Portrayals of Minorities Project research and is a co-author on numerous MPoMP research projects.</p>
+    <p class="bio-text">A. Maurits van der Veen is a faculty affiliate of the Media Portrayals of Minorities Project. He is Associate Professor of Government at William & Mary, where he directs the <a href="https://stair.wm.edu/">STAIR lab</a>. He develops text analysis procedures that we use in Media Portrayals of Minorities Project research and is a co-author on numerous MPOMP research projects.</p>
 
     <h3>Mira Chugh</h3>
     <p class="bio-text">Mira Chugh, Middlebury College ’20, is a Computer Science major from Connecticut. She joined the Media Portrayals of Minorities Project in 2018, after taking the Winter term lab course. Mira worked on a project in the Media and Minorities lab named “Newspaper Coverage of Victims of Sexual Assault and Misconduct.”</p>
