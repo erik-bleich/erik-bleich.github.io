@@ -3170,7 +3170,7 @@
 				box-shadow: inset 0 0 0 2px #18bfef;
 				color: #18bfef !important;
 			}
-©
+
 			#intro input[type="submit"].special,
 			#intro input[type="reset"].special,
 			#intro input[type="button"].special,
@@ -4501,4 +4501,15 @@
 	/* Styling for download button */
 	.dl-content dd {
 		float:left;
+	}
+
+	.bio-img img {
+    float:left;
+
+	}
+
+	.bio-text p {
+    float:right;
+		display: inline-block;
+		word-wrap: break-word;
 	}
