@@ -4503,26 +4503,26 @@
 		float:left;
 	}
 
-	img.bio-img {
+	/* img.bio-img {
     float:left;
 		padding-right: 20px;
 
-	}
+	} */
 
 	h3.name-header {
 		margin-top: 20px;
 	}
 
-	p.bio-text {
+	/* p.bio-text {
 		display: inline;
 		text-align: justify;
 		border-color: "black";
 		/* word-wrap: break-word; */
-	}
+	} */
 
-	div.bio-div {
+	/* div.bio-div {
 		/* padding-top: 300px; */
-	}
+	} */
 
 	.underline-active {
 		text-decoration: underline;
