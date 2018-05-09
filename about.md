@@ -31,7 +31,7 @@ title: About MPOMP
     <div style="margin-top:225px"> </div>
 
     <h3 class="name-header">Will Digravio</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/digravio.jpg" alt="" height="350px" width="350px"/>
+    <img class="bio-img" src="/assets/images/bio-pics/digravio.jpg" alt="" height="400px" width="350px"/>
     <p class="bio-text">Will DiGravio, Middlebury College ’19, is a Film & Media Culture and English & American Literatures joint major, and a Political Science minor from Massachusetts. He joined the lab in the Winter of 2018 where, in addition to the Muslims book project, he has researched the U.S. print media’s coverage of survivors of sexual assault and misconduct. He was elected the editor in chief of The Middlebury Campus, the college’s student newspaper, for the 2018-2019 academic year. </p>
 
     <div style="margin-top:100px"> </div>
