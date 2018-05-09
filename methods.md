@@ -22,8 +22,11 @@ title: Our Methods
   <dt>
 
     <dd>“How Negative is the Negative Coverage of Muslims? A New Approach to Sentiment Analysis for the Social Sciences,” A. Maurits van der Veen and Erik Bleich</dd>
+    <br/>
 
     <dd>“The Good, the Bad, and the Ugly: A Corpus Linguistics Analysis of US Newspaper Coverage of Latinx, 1996-2016,” Erik Bleich, James P. Callison, Georgia Grace Edwards, Mia Fichman, Erin Hoynes, Razan Jabari, and A. Maurits van der Veen</dd>
+
+    <br/>
 
     <dd>“Media Portrayals of Muslims: A Comparative Sentiment Analysis of American Newspapers, 1996-2015,” Erik Bleich and A. Maurits van der Veen</dd>
 
