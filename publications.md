@@ -35,6 +35,6 @@ request: publications
     <hr>
     <h3>Media Publications</h3>
     <dl>
-      <dd><a href="http://digital.vpr.net/post/bleich-media-marches-and-muslims#stream/0">“<span class="underline-active">The Media, Marches, and Muslims,<span class="underline-active"> ” Vermont Public Radio Commentary, February 6, 2017</a></dd>
+      <dd><a href="http://digital.vpr.net/post/bleich-media-marches-and-muslims#stream/0">“<span class="underline-active">The Media, Marches, and Muslims</span> ,” Vermont Public Radio Commentary, February 6, 2017</a></dd>
     </dl>
 </section>
