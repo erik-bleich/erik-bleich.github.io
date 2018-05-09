@@ -6,7 +6,7 @@ description: A responsive site template designed by HTML5 Up<br /> and released 
 # baseurl: "erik-bleich.github.io/" # the subpath of your site, e.g. /blog
 url: "https://erik-bleich.github.io/" # the base hostname & protocol for your site
 author:
-street_address:  Department of Political Science / Middlebury College
+street_address:  Department of Political Science <br /> Middlebury College
 city: Middlebury
 state: VT
 zip_code: 05753
@@ -14,9 +14,8 @@ country: United States of America
 phone: (802) 443-3254
 
 # social settings
-social: @erikbleich1
-500px_url: _
-facebook_url: _
+500px_url:
+facebook_url:
 github_url: https://github.com/erik-bleich
 gitlab_url: https://gitlab.com/u/erik-bleich
 
