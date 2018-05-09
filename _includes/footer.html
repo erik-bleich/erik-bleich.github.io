@@ -1,26 +1,26 @@
 		</div>
 
 		<!-- Footer -->
-		<footer id="footer">
-				<section>
-						<form method="POST" action="https://formspree.io/{{ site.email }}" >
-								<div class="field">
-									  <label for="name">Name</label>
-									  <input type="text" name="name" id="name" />
-								</div>
-								<div class="field">
-									  <label for="email">Email</label>
-									  <input type="text" name="_replyto" id="email" />
-								</div>
-								<div class="field">
-									  <label for="message">Message</label>
-									  <textarea name="message" id="message" rows="3"></textarea>
-								</div>
-								<ul class="actions">
-									  <li><input type="submit" value="Send Message" /></li>
-								</ul>
-						</form>
-				</section>
+		<footer id="footer" method="POST" action="https://formspree.io/{{ site.email }}">
+			<section>
+		    <form method="POST" action="https://formspree.io/{{site.email}}">
+		      <div class="field">
+		        <label for="name">Name</label>
+		        <input autocomplete="test" type="text" name="name" id="name" />
+		      </div>
+		      <div class="field">
+		        <label for="email">Email</label>
+		        <input autocomplete="section-blue shipping email" type="text" name="email" id="email" />
+		      </div>
+		      <div class="field">
+		        <label for="message">Message</label>
+		        <textarea autocomplete="section-blue shipping message" name="message" id="message" rows="3"></textarea>
+		      </div>
+		      <ul class="actions">
+		        <li><input type="submit" value="Send Message" /></li>
+		      </ul>
+		    </form>
+		  </section>
 				<section class="split contact">
 						<section class="alt">
 								<h3>Address</h3>

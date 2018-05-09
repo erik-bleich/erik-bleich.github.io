@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+request: publications
 ---
 <!-- Post -->
 <section class="post">

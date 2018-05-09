@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Our Methods
+request: methods
+
 ---
 
 <!-- Post -->
