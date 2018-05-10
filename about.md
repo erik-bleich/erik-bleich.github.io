@@ -30,7 +30,7 @@ title: About MPOMP
     <!-- <div style="margin-top:225px"> </div> -->
 
     <h3 class="name-header">Will Digravio</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/digravio.jpg" alt="" height="400px" width="350px"/>
+    <img class="bio-img" src="/assets/images/bio-pics/digravio.jpg" alt="" height="400px" width="325px"/>
     <p class="bio-text">Will DiGravio, Middlebury College ’19, is a Film & Media Culture and English & American Literatures joint major, and a Political Science minor from Massachusetts. He joined the lab in the Winter of 2018 where, in addition to the Muslims book project, he has researched the U.S. print media’s coverage of survivors of sexual assault and misconduct. He was elected the editor in chief of The Middlebury Campus, the college’s student newspaper, for the 2018-2019 academic year. </p>
 
     <!-- <div style="margin-top:100px"> </div> -->
@@ -44,14 +44,13 @@ title: About MPOMP
 
 
     <h3 class="name-header">Razan Jabari</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/jabari.jpg" alt="" height="425px" width="300px"/>
     <p class="bio-text">Razan Jabari, Middlebury College ’18, is an international Politics and Economics major, and a Hebrew minor from Palestine. She joined the Media Portrayals of Minorities Project in 2016. She has worked in multiple projects in the lab including “Media Portrayals of Muslims: A Comparative Sentiment Analysis of American Newspapers, 1996-2015”, “The Good, the Bad, and the Ugly: A Corpus Linguistics Analysis of U.S. Newspaper Coverage of Latinx, 1996-2016", as well as a book on media coverage of Muslims, currently in progress. </p>
 
 
 
     <h3 class="name-header">Rand Jibril</h3>
     <p class="bio-text">Rand Jibril, Middlebury College ’20, is an International Politics and Economics major, and a Global Health Minor from Ramallah, Palestine. She joined the Media Portrayals of Minorities Project in 2018, after taking the Media and Minorities lab J-term course. Rand worked on a research project in the MPoMP lab entitled “U.S. and U.K. Media Portrayal of Refugees and Asylum Seekers” earlier this year. </p>
-
-
 
 
     <h3 class="name-header">Julien Souffrant</h3>
