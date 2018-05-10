@@ -1,7 +1,6 @@
 ---
 layout: page
 title: MPoMP Lab
-request: mpomplab
 ---
 
 
