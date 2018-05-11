@@ -50,6 +50,7 @@ title: About MPOMP
 
 
     <h3 class="name-header">Rand Jibril</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/jibril.jpg" alt="" height="325px" width="300px"/>
     <p class="bio-text">Rand Jibril, Middlebury College ’20, is an International Politics and Economics major, and a Global Health Minor from Ramallah, Palestine. She joined the Media Portrayals of Minorities Project in 2018, after taking the Media and Minorities lab J-term course. Rand worked on a research project in the MPoMP lab entitled “U.S. and U.K. Media Portrayal of Refugees and Asylum Seekers” earlier this year. </p>
 
 
