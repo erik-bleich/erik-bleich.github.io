@@ -6,7 +6,7 @@ title: About MPOMP
 <section class="post">
     <header class="major">
         <!-- <span class="date"></span> -->
-        <p>The Media Portrayals of Minorities Project was launched in 2012 at Middlebury College. We use digital sources to better understand depictions of minorities in the media. Our goal is to track and to explain how and why media representations of groups shift over time, vary across place, or compare to one another. We use a mix of computer-assisted and human coding techniques that allow us to analyze large quantities of media data. Our approach provides a new way of understanding how the media establish, reproduce, and influence the portrayals of minority groups.</p>
+        <p>The Media Portrayals of Minorities Project was launched in 2012 at Middlebury College. We use digital sources to better understand depictions of minorities in the media. Our goal is to track and to explain how and why media representations of groups shift over time, vary across place, or compare to one another. We use a mix of computer-assisted and human coding techniques that allow us to analyze large quantities of media data. Our approach provides a new way of understanding how the media establish, reproduce, and influence the portrayals of minority groups in media.</p>
     </header>
 
     <h1 style="text-align:center; padding-bottom:25px; font-size:3rem">Who we are</h1>
