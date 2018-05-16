@@ -4524,9 +4524,14 @@
 		padding-top: 300px;
 	}  */
 
-
-
-
 	.underline-active {
 		text-decoration: underline;
+	}
+
+	.italicsSpan span {
+		font-style: italic;
+	}
+
+	.bio-text a {
+		text-decoration: underline !important;
 	}

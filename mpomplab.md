@@ -26,6 +26,6 @@ title: MPoMP Lab
     <dt>
         <dd>Razan Jabari (2018), Media Coverage of Palestinians and Israelis in the United States & the United Kingdom, 1996-2016</dd>
         <dd>James Callison (2018), Pushed to The Margins: How the News Media in the United States and United Kingdom Discuss Immigration</dd>
-        <dd>Hasher Nisar (2017), Media, Geography, & Status Hierarchies - Muslims and Jews: Evidence from the New York Times and the Guardian, 1985-2014</dd>
+        <dd>Hasher Nisar (2017), Media, Geography, & Status Hierarchies - Muslims and Jews: Evidence from the <span class="italicsSpan">New York Times </a> and the <span class="italicsSpan">Guardian</span>, 1985-2014</dd>
     </dt>
 </section>
