@@ -14,7 +14,7 @@ title: Publications
       <dd>“Investigating Status Hierarchies with Media Analysis: Muslims, Jews, and Catholics in New York Times and Guardian Headlines, 1985-2014,” Erik Bleich, Hasher Nisar and Cara Vazquez, International Journal of Comparative Sociology, forthcoming</dd>
       <br/>
 
-      <dd><a href="/assets/media-contributions/Bleich-2016-et-al-Terrorism-&-media-portrayals-of-Muslims-NYT-1985-2013.pdf" download>“<span class="underline-active">The Effect of Terrorist Events on Media Portrayals of Islam and Muslims: Evidence from New York Times Headlines, 1985-2013 </span>,” Erik Bleich, Hasher Nisar, and Rana Abdelhamid, Ethnic and Racial Studies, 39, 7, 2016: 1109-27</a></dd>
+      <dd><a href="/assets/media-contributions/Bleich-2016-et-al-Terrorism-&-media-portrayals-of-Muslims-NYT-1985-2013.pdf" download>“<span class="underline-active">The Effect of Terrorist Events on Media Portrayals of Islam and Muslims: Evidence from New York Times Headlines, 1985-2013</span>,” Erik Bleich, Hasher Nisar, and Rana Abdelhamid, Ethnic and Racial Studies, 39, 7, 2016: 1109-27</a></dd>
 
       <br/>
       <!-- here -->
