@@ -18,7 +18,7 @@ title: Publications
 
       <br/>
       <!-- here -->
-      <dd><a href="/assets/media-contributions/Bleich-2015-&-Bloemraad-de-Graauw-JEMS-Migrants-Minorities-Media-Intro.pdf" download>"<span class="underline-active">Introduction: Migrants, Minorities, and the Media: Information, Representations, and Participation in the Public Sphere</span>,” Erik Bleich, Irene Bloemraad, and Els de Graauw, Journal of Ethnic and Migration Studies, 41, 6, 2015: 857-73 </a></dd>
+      <dd><a href="/assets/media-contributions/Bleich-2015-&-Bloemraad-de-Graauw-JEMS-Migrants-Minorities-Media-Intro.pdf" download>“<span class="underline-active">Introduction: Migrants, Minorities, and the Media: Information, Representations, and Participation in the Public Sphere</span>,” Erik Bleich, Irene Bloemraad, and Els de Graauw, Journal of Ethnic and Migration Studies, 41, 6, 2015: 857-73 </a></dd>
 
       <br/>
 
