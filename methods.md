@@ -18,7 +18,7 @@ title: Our Methods
 
   <p>We can also compare how different media outlets within a country or across countries discuss particular groups. Are some newspapers more prone to cover Latinos using positive words? Does the press in some countries use more negative words to discuss Muslims? Do the particular words found near “refugees” differ according to whether the stories are found in the American or British press? Our methods allow us to answer questions like these.</p>
 
-  <p>For more detailed information about our methods and for examples of how they are applied in scholarly articles, please request our papers-in-progress, and email us with questions or comments.</p>
+  <p>For more detailed information about our methods and for examples of how they are applied in scholarly articles, please request our papers in progress, and email us with questions or comments.</p>
   <dt>
 
   <h3>PAPERS IN PROGESS:</h3>
