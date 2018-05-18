@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MPoMP Lab
+title: The Lab
 ---
 
 
@@ -10,7 +10,7 @@ title: MPoMP Lab
 
     </header>
     <!-- <span class="date"></span> -->
-    <p>The Media Portrayals of Minorities Project lab was launched at Middlebury College in 2012. It has directly involved undergraduate students in research by training them in lab techniques. Lab members develop projects, are co-presenters of research at academic conferences, and are co-authors on published scholarship. Students are also encouraged to write senior theses using lab procedures.
+    <p>The Media Portrayals of Minorities Project (M-POMP) lab was launched at Middlebury College in 2012. It has directly involved undergraduate students in research by training them in lab techniques. Lab members develop projects, are co-presenters of research at academic conferences, and are co-authors on published scholarship. Students are also encouraged to write senior theses using lab procedures.
     </p>
 
 
@@ -18,7 +18,7 @@ title: MPoMP Lab
     <dt>
         <dd>Razan Jabari (2018), Media Coverage of Palestinians and Israelis in the United States & the United Kingdom, 1996-2016</dd>
         <dd>James Callison (2018), Pushed to The Margins: How the News Media in the United States and United Kingdom Discuss Immigration</dd>
-        <dd>Hasher Nisar (2017), Media, Geography, & Status Hierarchies - Muslims and Jews: Evidence from the <span class="italicsSpan">New York Times</span> and the <span class="italicsSpan">Guardian</span>, 1985-2014</dd>
+        <dd>Hasher Nisar (2017), Media, Geography, & Status Hierarchies - Muslims and Jews: Evidence from <i>The New York Times</i> and <i>The Guardian</i>, 1985-2014</dd>
         <p>
         </p>
     </dt>

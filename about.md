@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About MPOMP
+title: About Us
 ---
 <!-- Post -->
 <section class="post">
@@ -9,14 +9,14 @@ title: About MPOMP
     </header>
         <!-- <span class="date"></span> -->
         <p>The Media Portrayals of Minorities Project was launched in 2012 at Middlebury College. We use digital sources to better understand depictions of minorities in the media. Our goal is to track and explain how and why media representations of groups shift over time, vary across place, or compare to one another. We use a mix of computer-assisted and human coding techniques that allow us to analyze large quantities of media data. Our approach provides a new way of understanding how the media establish, reproduce, and influence the portrayals of minority groups in media.</p>
-    
+
 
     <h1 style="text-align:center; padding-bottom:25px; font-size:3rem">Who we are</h1>
 
     <h3 class="name-header">Erik Bleich</h3>
     <img class="bio-img" src="/assets/images/bio-pics/bleich.jpg" alt="" height="300px" width="375px"/>
     <p class="bio-text">
-    <a href=" http://www.middlebury.edu/academics/ps/faculty/node/25021">Erik Bleich</a> is the director of the Media Portrayals of Minorities Project. He is Charles A. Dana Professor of political science at <a href="http://www.middlebury.edu/#story569121">Middlebury College</a>. Bleich publishes widely on race and ethnicity in liberal democracies, and is the co-editor of <a href="https://www.routledge.com/Migrants-Minorities-and-the-Media-Information-representations-and/Bleich-Bloemraad-de-Graauw/p/book/9781138232815">Migrants, Minorities and the Media: Information, Representations and Participation in the Public Sphere</a>. His work has also appeared in <a href="https://www.theatlantic.com/national/archive/2013/04/a-better-way-to-diversify-colleges/274871/">The Atlantic</a>, <a href="https://www.aljazeera.com/indepth/opinion/profile/erik-bleich.html">Al Jazeera English</a>, Asahi Shimbun, <a href="https://theconversation.com/apres-charlottesville-repenser-lantiracisme-a-lamericaine-86110">The Conversation</a>, the <a href="https://www.ft.com/content/02998426-a1be-11e4-bd03-00144feab7de"> Financial Times</a>, the Guardian, the <a href="https://www.huffingtonpost.com/author/erik-bleich">Huffington Post</a>, <a href="https://www.prospectmagazine.co.uk/politics/after-charlie-hebdo-muslims-in-france-charlie-hebdo-attack-shooting-islam-paris">Prospect Magazine</a>, and the <a href="https://www.washingtonpost.com/news/monkey-cage/wp/2014/10/03/taking-stock-of-muslim-integration-successes-in-europe/?utm_term=.6cea7fb014ed">Washington Post</a>. He has been an invited guest on NPR’s Here and Now, WNYC’s Brian Lehrer show, France 24, Danish Public Radio, CBC Radio’s Day 6, and BBC World Service’s <a href="https://www.bbc.co.uk/programmes/w3csv1bw">The Inquiry</a>.</p>
+    <a href=" http://www.middlebury.edu/academics/ps/faculty/node/25021">Erik Bleich</a> is the director of the Media Portrayals of Minorities Project. He is Charles A. Dana Professor of political science at <a href="http://www.middlebury.edu/#story569121">Middlebury College</a>. Bleich publishes widely on race and ethnicity in liberal democracies, and is the co-editor of <a href="https://www.routledge.com/Migrants-Minorities-and-the-Media-Information-representations-and/Bleich-Bloemraad-de-Graauw/p/book/9781138232815">Migrants, Minorities and the Media: Information, Representations and Participation in the Public Sphere</a>. His work has also appeared in <a href="https://www.theatlantic.com/national/archive/2013/04/a-better-way-to-diversify-colleges/274871/">The Atlantic</a>, <a href="https://www.aljazeera.com/indepth/opinion/profile/erik-bleich.html">Al Jazeera English</a>, Asahi Shimbun, <a href="https://theconversation.com/apres-charlottesville-repenser-lantiracisme-a-lamericaine-86110">The Conversation</a>, <a href="https://www.ft.com/content/02998426-a1be-11e4-bd03-00144feab7de">Financial Times</a>, The Guardian, <a href="https://www.huffingtonpost.com/author/erik-bleich">Huffington Post</a>, <a href="https://www.prospectmagazine.co.uk/politics/after-charlie-hebdo-muslims-in-france-charlie-hebdo-attack-shooting-islam-paris">Prospect Magazine</a>, and <a href="https://www.washingtonpost.com/news/monkey-cage/wp/2014/10/03/taking-stock-of-muslim-integration-successes-in-europe/?utm_term=.6cea7fb014ed">The Washington Post</a>. He has been an invited guest on NPR’s Here and Now, WNYC’s Brian Lehrer show, France 24, Danish Public Radio, CBC Radio’s Day 6, and BBC World Service’s <a href="https://www.bbc.co.uk/programmes/w3csv1bw">The Inquiry</a>.</p>
 
     <h3 class="name-header">A. Maurits van der Veen</h3>
     <img class="bio-img" src="/assets/images/bio-pics/maurits.jpg" alt="" height="350px" width="250px"/>
@@ -33,14 +33,14 @@ title: About MPOMP
 
     <h3 class="name-header">Will Digravio</h3>
     <img class="bio-img" src="/assets/images/bio-pics/digravio.jpg" alt="" height="400px" width="325px"/>
-    <p class="bio-text">Will DiGravio, Middlebury College ’19, is a Film & Media Culture and English & American Literatures joint major, and a Political Science minor from Massachusetts. He joined the lab in the Winter of 2018 where, in addition to the Muslims book project, he has researched the U.S. print media’s coverage of survivors of sexual assault and misconduct. He was elected the editor in chief of <a href="https://middleburycampus.com/">The Middlebury Campus</a>, the college’s student newspaper, for the 2018-2019 academic year. </p>
+    <p class="bio-text">Will DiGravio, Middlebury College ’19, is a Film & Media Culture and English & American Literatures joint major, and a Political Science minor from Massachusetts. He joined the lab in the Winter of 2018 where, in addition to the Muslims book project, he has researched the U.S. print media’s coverage of survivors of sexual assault and misconduct. He was elected the editor in chief of <a href="https://middleburycampus.com/"><i>The Middlebury Campus</i></a>, the college’s student newspaper, for the 2018-2019 academic year. </p>
 
     <!-- <div style="margin-top:100px"> </div> -->
 
 
     <h3 class="name-header">Erin Hoynes</h3>
     <img class="bio-img" src="/assets/images/bio-pics/hoynes.jpg" alt="" height="400px" width="350px"/>
-    <p class="bio-text">Erin Hoynes, Middlebury College ’19, is a joint major in Geography and Gender, Sexuality, and Feminist studies from Berkeley, California. She joined the Media Portrayals of Minorities Project in 2016, and has worked on multiple projects for the lab including “Media Portrayals of Muslims: A Comparative Sentiment Analysis of American Newspapers, 1996-2015,” and most recently “The Good, the Bad, and the Ugly: A Corpus Linguistics Analysis of U.S. Newspaper Coverage of Latinx, 1996-2016” as well as a book on media coverage of Muslims, currently in progress. She also worked as a TA for the Media and Minorities J-Term Course in 2018.</p>
+    <p class="bio-text">Erin Hoynes, Middlebury College ’19, is a joint major in Geography and Gender, Sexuality, and Feminist studies from Berkeley, California. She joined the Media Portrayals of Minorities Project in 2016, and has worked on multiple projects for the lab including “Media Portrayals of Muslims: A Comparative Sentiment Analysis of American Newspapers, 1996-2015,” and most recently “The Good, the Bad, and the Ugly: A Corpus Linguistics Analysis of U.S. Newspaper Coverage of Latinx, 1996-2016” as well as a book on media coverage of Muslims, currently in progress. She also worked as a TA for the Media and Minorities Winter term Course in 2018.</p>
 
     <!-- <div style="margin-top:100px"> </div> -->
 
