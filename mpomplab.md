@@ -30,6 +30,7 @@ title: The Lab
       <li>Georgia Grace Edwards, 2018</li>
       <li>James Callison, 2017.5</li>
       <li>Hasher Nisar, 2016.5</li>
+      <li>Cara Vazquez, 2016.5</li>
       <li>Rana Abdelhamid, 2015</li>
       <li>Hannah Stonebraker, 2013</li>
     </ul>
