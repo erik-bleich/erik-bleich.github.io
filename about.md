@@ -20,7 +20,7 @@ title: About Us
 
     <h3 class="name-header">A. Maurits van der Veen</h3>
     <img class="bio-img" src="/assets/images/bio-pics/maurits.jpg" alt="" height="350px" width="250px"/>
-    <p class="bio-text"><a class="link" href="https://www.wm.edu/as/internationalrelations/faculty/Veen_m.php">A. Maurits van der Veen</a> is a faculty affiliate of the Media Portrayals of Minorities Project. He is Associate Professor of Government at William & Mary, where he directs the <a href="https://stair.wm.edu/">STAIR lab</a>. He develops text analysis procedures that we use in Media Portrayals of Minorities Project research and is a co-author on numerous MPOMP research projects.     
+    <p class="bio-text"><a class="link" href="https://www.wm.edu/as/internationalrelations/faculty/Veen_m.php">A. Maurits van der Veen</a> is a faculty affiliate of the Media Portrayals of Minorities Project. He is Associate Professor of Government at William & Mary, where he directs the <a href="https://stair.wm.edu/">STAIR lab</a>. He develops text analysis procedures that we use in Media Portrayals of Minorities Project research and is a co-author on numerous research projects.     
     </p>
 
     <!-- <div style="margin-top:215px"> </div> -->
