@@ -11,7 +11,7 @@ title: Publications
         <p>The Media Portrayals of Minorities Project has generated scholarship that has been published in a range of venues. Our early publications drew largely on a human-coded database of article headlines. More recent work builds on computer-assisted methods of data analysis.</p>
 
 
-      <dd>“Investigating Status Hierarchies with Media Analysis: Muslims, Jews, and Catholics in <i>New York Times</i> and <i>Guardian</i> Headlines, 1985-2014,” Erik Bleich, Hasher Nisar and Cara Vazquez, <i>International Journal of Comparative Sociology</i>, forthcoming</dd>
+      <dd><a href="/assets/media-contributions/Bleich2018IJCS.pdf" download>“<u>Investigating Status Hierarchies with Media Analysis: Muslims, Jews, and Catholics in <i>The New York Times</i> and <i>The Guardian</i> Headlines, 1985-2014</u>,” Erik Bleich, Hasher Nisar and Cara Vazquez, <i>International Journal of Comparative Sociology</i>, 2018</a></dd>
       <br/>
 
       <dd><a href="/assets/media-contributions/Bleich-2016-Muslims-NYT.pdf" download>“<span class="underline-active">The Effect of Terrorist Events on Media Portrayals of Islam and Muslims: Evidence from <i>New York Times</i> Headlines, 1985-2013</span>,” Erik Bleich, Hasher Nisar, and Rana Abdelhamid, <i>Ethnic and Racial Studies</i>, 39, 7, 2016: 1109-27</a></dd>
