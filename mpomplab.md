@@ -27,6 +27,8 @@ title: The Lab
     <h3>Former student members of the lab include:</h3>
     <ul>
       <li>Mia Fichman, 2019</li>
+      <li>Erin Hoynes, 2019</li>
+      <li>Razan Jabari, 2018</li>
       <li>Georgia Grace Edwards, 2018</li>
       <li>James Callison, 2017.5</li>
       <li>Hasher Nisar, 2016.5</li>

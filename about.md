@@ -37,24 +37,11 @@ title: About Us
 
     <!-- <div style="margin-top:100px"> </div> -->
 
-
-    <h3 class="name-header">Erin Hoynes</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/hoynes.jpg" alt="" height="400px" width="350px"/>
-    <p class="bio-text">Erin Hoynes, Middlebury College ’19, is a joint major in Geography and Gender, Sexuality, and Feminist studies from Berkeley, California. She joined the Media Portrayals of Minorities Project in 2016, and has worked on multiple projects for the lab including “Media Portrayals of Muslims: A Comparative Sentiment Analysis of American Newspapers, 1996-2015,” and most recently “The Good, the Bad, and the Ugly: A Corpus Linguistics Analysis of U.S. Newspaper Coverage of Latinx, 1996-2016” as well as a book on media coverage of Muslims, currently in progress. She also worked as a TA for the Media and Minorities Winter term Course in 2018.</p>
-
-    <!-- <div style="margin-top:100px"> </div> -->
-
-
-    <h3 class="name-header">Razan Jabari</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/jabari.jpg" alt="" height="425px" width="300px"/>
-    <p class="bio-text">Razan Jabari, Middlebury College ’18, is an International Politics and Economics major and a Hebrew minor from Palestine. She joined the Media Portrayals of Minorities Project in 2016. She has worked on multiple projects in the lab including “Media Portrayals of Muslims: A Comparative Sentiment Analysis of American Newspapers, 1996-2015,” “The Good, the Bad, and the Ugly: A Corpus Linguistics Analysis of U.S. Newspaper Coverage of Latinx, 1996-2016,” as well as a book on media coverage of Muslims, currently in progress. </p>
-
-
-
     <h3 class="name-header">Rand Jibril</h3>
     <img class="bio-img" src="/assets/images/bio-pics/jibril.jpg" alt="" height="325px" width="300px"/>
     <p class="bio-text">Rand Jibril, Middlebury College ’20, is an International Politics and Economics major and a Global Health Minor from Ramallah, Palestine. She joined the Media Portrayals of Minorities Project in 2018, after taking the Media and Minorities lab Winter term course with Professor Bleich. Rand worked on a research study entitled “U.S. and U.K. Media Portrayal of Refugees and Asylum Seekers” with fellow group member Emily Stabler. </p>
 
+<!-- <div style="margin-top:100px"> </div> -->
 
     <h3 class="name-header">Julien Souffrant</h3>
     <img class="bio-img" src="/assets/images/bio-pics/souffrant.jpg" alt="" height="300px" width="350px"/>
@@ -62,15 +49,9 @@ title: About Us
 
     <!-- <div style="margin-top:200px"> </div> -->
 
-
     <h3 class="name-header">Emily Stabler</h3>
     <img class="bio-img" src="/assets/images/bio-pics/stabler.jpg" alt="" height="300px" width="350px"/>
     <p class="bio-text">Emily Stabler, Middlebury College ’19, is a Political Science major and Spanish minor from San Francisco, California. She joined the Media Portrayals of Minorities Project group in 2018, after taking the Media and Minorities Winter term course with Professor Bleich. Emily worked on a research study entitled “U.S. and U.K. Media Portrayal of Refugees and Asylum Seekers” with fellow group member Rand Jibril.</p>
-
-    <!-- <div style="margin-top:100px"> </div> -->
-
-    <h3 class="name-header">David Valentin</h3>
-    <p class="bio-text">David Valentin, Middlebury College ’19, is a Computer Science major and Classics Minor from New York City that does web and mobile development. He is conducting a statistical machine learning analysis on mass shooters in American history and how race plays in the portrayals of these individuals.</p>
 
 
 </section>

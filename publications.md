@@ -11,6 +11,9 @@ title: Publications
         <p>The Media Portrayals of Minorities Project has generated scholarship that has been published in a range of venues. Our early publications drew largely on a human-coded database of article headlines. More recent work builds on computer-assisted methods of data analysis.</p>
 
 
+      <dd><a href="/assets/media-contributions/Bleich2018Religions.pdf" download>“<u>Media Coverage of Muslim Devotion: A Four-Country Analysis of Newspaper Articles, 1996–2016</u>,” Erik Bleich, Julien Souffrant, Emily Stabler, and A. Maurits van der Veen, <i>Religions</i>, 9, 8, 2018: 247</a></dd>
+      <br/>
+
       <dd><a href="/assets/media-contributions/Bleich2018IJCS.pdf" download>“<u>Investigating Status Hierarchies with Media Analysis: Muslims, Jews, and Catholics in <i>The New York Times</i> and <i>The Guardian</i> Headlines, 1985-2014</u>,” Erik Bleich, Hasher Nisar, and Cara Vazquez, <i>International Journal of Comparative Sociology</i>, 2018</a></dd>
       <br/>
 
