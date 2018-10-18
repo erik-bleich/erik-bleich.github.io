@@ -37,6 +37,8 @@ title: Publications
 
       <dd><a href="https://www.washingtonpost.com/news/monkey-cage/wp/2018/10/17/most-news-coverage-of-muslims-is-negative-but-not-when-its-about-devotion/?utm_term=.80aff3e5673e">“<span class="underline-active">Most news coverage of Muslims is negative. But not when it’s about devotion.</span>,” Erik Bleich, Julien Souffrant, Emily Stabler & A. Maurits van der Veen, Washington Post/Monkey Cage, October 17, 2018</a></dd>
 
+      <br/>
+
       <dd><a href="http://digital.vpr.net/post/bleich-media-marches-and-muslims#stream/0">“<span class="underline-active">The Media, Marches, and Muslims</span>,” Erik Bleich, Vermont Public Radio Commentary, February 6, 2017</a></dd>
 
 </section>
