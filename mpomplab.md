@@ -28,6 +28,7 @@ title: The Lab
     <ul>
       <li>Mia Fichman, 2019</li>
       <li>Erin Hoynes, 2019</li>
+      <li>David Valentin, 2019</li>
       <li>Razan Jabari, 2018</li>
       <li>Georgia Grace Edwards, 2018</li>
       <li>James Callison, 2017.5</li>
