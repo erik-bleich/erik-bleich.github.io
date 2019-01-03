@@ -11,6 +11,9 @@ title: Publications
         <p>The Media Portrayals of Minorities Project has generated scholarship that has been published in a range of venues. Our early publications drew largely on a human-coded database of article headlines. More recent work builds on computer-assisted methods of data analysis.</p>
 
 
+      <dd><a href="/assets/media-contributions/Bleich2018Latinx.pdf" download>“<u>The Good, the Bad, and the Ugly: A Corpus Linguistics Analysis of US Newspaper Coverage of Latinx, 1996–2016</u>,” Erik Bleich, James P Callison, Georgia Grace Edwards, Mia Fichman, Erin Hoynes, Razan Jabari, and A. Maurits van der Veen, <i>Journalism</i>, https://doi.org/10.1177/1464884918818252</a></dd>
+      <br/>
+
       <dd><a href="/assets/media-contributions/Bleich2018PGIMuslims.pdf" download>“<u>Media Portrayals of Muslims: A Comparative Sentiment Analysis of American Newspapers, 1996–2015</u>,” Erik Bleich and A. Maurits van der Veen, <i>Politics, Groups, and Identities</i>, https://doi.org/10.1080/21565503.2018.1531770</a></dd>
       <br/>
 
@@ -38,7 +41,11 @@ title: Publications
 
     <h3>Media Contributions</h3>
 
-      <dd><a href="https://www.washingtonpost.com/news/monkey-cage/wp/2018/10/17/most-news-coverage-of-muslims-is-negative-but-not-when-its-about-devotion/?utm_term=.80aff3e5673e">“<span class="underline-active">Most news coverage of Muslims is negative. But not when it’s about devotion.</span>,” Erik Bleich, Julien Souffrant, Emily Stabler & A. Maurits van der Veen, Washington Post/Monkey Cage, October 17, 2018</a></dd>
+      <dd><a href="https://www.washingtonpost.com/news/monkey-cage/wp/2018/12/20/newspaper-coverage-of-muslims-is-negative-and-its-not-because-of-terrorism/?utm_term=.1b76b249e1cf">“<span class="underline-active">Newspaper coverage of Muslims is negative. And it’s not because of terrorism.</span>” Erik Bleich & A. Maurits van der Veen, Washington Post/Monkey Cage, December 20, 2018</a></dd>
+
+      <br/>
+
+      <dd><a href="https://www.washingtonpost.com/news/monkey-cage/wp/2018/10/17/most-news-coverage-of-muslims-is-negative-but-not-when-its-about-devotion/?utm_term=.80aff3e5673e">“<span class="underline-active">Most news coverage of Muslims is negative. But not when it’s about devotion.</span>” Erik Bleich, Julien Souffrant, Emily Stabler & A. Maurits van der Veen, Washington Post/Monkey Cage, October 17, 2018</a></dd>
 
       <br/>
 
