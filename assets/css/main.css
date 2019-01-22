@@ -2415,17 +2415,17 @@
 
 /* Image */
 
-	.image {
+	.image .graph-image {
 		border: 0;
 		display: inline-block;
 		position: relative;
 	}
 
-		.image img {
+		.image .graph-image img {
 			display: block;
 		}
 
-		.image.left, .image.right {
+		.image.left, .image.right .z {
 			max-width: 40%;
 		}
 
@@ -2445,7 +2445,7 @@
 			top: 0.75rem;
 		}
 
-		.image.fit {
+		.image.fit .graph-image {
 			display: block;
 			margin: 2.5rem 0;
 			width: 100%;

@@ -12,11 +12,17 @@ Given these findings, why is there a widespread perception of a free speech cris
 To find out, we collected every article containing terms related to free speech and college campuses published in 11 national and regional papers in the decade between January 1, 2008 and December 31, 2017, amounting to nearly 6,000 articles. We wondered two things: First, has there been a noticeable increase in the number of articles about free speech on college campuses in recent years? Second, has there been a shift in the tone and types of articles published over time?
 
 <p class="aligncenter">
- <img src="/assets/images/FreeSpeechArticlesOvertime.png" alt="" height="400" width="600">
+ <img src="/assets/images/FreeSpeechArticlesOvertime.png" alt="" class="graph-image">
  </p>
  <style>
 .aligncenter {
     text-align: center;
+}
+
+@media screen and (max-width: 736px) {
+    .graph-image {
+        width:100% !important; 
+    }
 }
 </style>
 

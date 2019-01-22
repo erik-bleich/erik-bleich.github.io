@@ -21,6 +21,12 @@ Isolating the sub-corpus of “Muslim devotion” articles, however, presents a 
 .aligncenter {
     text-align: center;
 }
+
+@media screen and (max-width: 736px) {
+    .graph-image {
+        width:100% !important;
+    }
+}
 </style>
 
  To illustrate these distinctions, the above figure compares the distribution of article valences in our devotion sub-corpus to all other Muslim articles and to the representative corpus. It shows that the vast majority of articles mentioning Muslims or Islam that are not within our devotion sub-corpus are negative, many substantially so. By contrast, articles mentioning devotion that do not contain conflict words and that are not set exclusively in a foreign location have, on average, quite similar valences to those of the representative corpus.
