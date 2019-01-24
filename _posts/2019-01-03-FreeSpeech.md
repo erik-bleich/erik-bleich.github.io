@@ -18,12 +18,6 @@ To find out, we collected every article containing terms related to free speech 
 .aligncenter {
     text-align: center;
 }
-
-@media screen and (max-width: 736px) {
-    .graph-image {
-        width:100% !important; 
-    }
-}
 </style>
 
 Figure 1 illustrates the number of articles in our dataset published over time. This confirms that there has in fact been an increase in the coverage of free speech on college campuses. Comparing left and right of the red line, the newsworthiness of the topic takes off in early 2014, and jumps again starting in late 2016. It turns out that only 43 percent of articles from our sample were published during the first six years of our time period (2008-2013), while the remaining 57% of articles in our sample were published in the last four (2014-2017).

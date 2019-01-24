@@ -2415,13 +2415,13 @@
 
 /* Image */
 
-	.image .graph-image {
+	.image {
 		border: 0;
 		display: inline-block;
 		position: relative;
 	}
 
-		.image .graph-image img {
+		.image {
 			display: block;
 		}
 
@@ -2472,6 +2472,12 @@
 			.image.main img {
 				width: 100%;
 			}
+
+		@media screen and (max-width: 736px) {
+		    .graph-image {
+		        width:100% !important;
+		    }
+		}
 
 		@media screen and (max-width: 736px) {
 

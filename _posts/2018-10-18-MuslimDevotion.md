@@ -15,17 +15,11 @@ Articles that mention Muslims or Islam have a very negative tone, overall. Using
 Isolating the sub-corpus of “Muslim devotion” articles, however, presents a different story. More than 37,000 articles included devotion-related words such as “devout,” “devotion,” “faith,” “pray,” “observant,” “fasting,” “pilgrimage,” “pious” or “piety.” Taken together, these articles referencing Muslims and devotion (and that aren’t set exclusively in a foreign location and that don’t contain conflict words, two factors highly correlated with negativity) have a mean valence of +0.09. Comparing our four countries, this set of articles contained language that was very slightly negative in Britain, slightly positive in Australia, more positive in Canada and most positive of all in the United States.
 
 <p class="aligncenter">
- <img src="/assets/images/devotionkd.jpg" alt="" height="322" width="500">
+ <img src="/assets/images/devotionkd.jpg" alt="" class="graph-image">
  </p>
  <style>
 .aligncenter {
     text-align: center;
-}
-
-@media screen and (max-width: 736px) {
-    .graph-image {
-        width:100% !important;
-    }
 }
 </style>
 

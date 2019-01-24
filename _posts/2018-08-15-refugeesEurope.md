@@ -10,7 +10,7 @@ The immigrants we see in the media do not necessarily correspond to the immigran
 In a study of the politicization of immigration in seven European countries, we found a similar pattern: the size of immigrant groups does not correspond to the frequency with which claims about them appear in the news (Table 1).
 
 <p class="aligncenter">
- <img src="/assets/images/ruedin-table-1.png" alt="" height="222" width="665">
+ <img src="/assets/images/ruedin-table-1.png" alt="" class="graph-image">
  </p>
  <style>
 .aligncenter {
