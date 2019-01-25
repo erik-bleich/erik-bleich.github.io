@@ -23,16 +23,27 @@ In a study of the politicization of immigration in seven European countries, we 
 We find that the way immigrants are portrayed in the media depends to a large extent on the kind of actor making a claim. Figure 1 illustrates this with respect to asylum seekers, refugees, and irregular immigrants. Numerically these groups constitute a small part of immigration in the countries examined, yet when it comes to media portrayals, they are one of the most common immigrant group talked about. Asylum seekers, refugees, and irregular immigrants are a “group” (defined in administrative terms) who generally must rely on other actors in the news to have a voice. Without access to formal politics, and characterized by precarious residence and social status, <a href="https://doi.org/10.1080/1369183X.2014.1002197"><u>they normally cannot speak for themselves</u></a> in political debates and related news articles.
 
 <p class="aligncenter">
-<img src="/assets/images/ruedin-figure-1.png" alt="" height="380" width="750">
+ <img src="/assets/images/ruedin-figure-1.png" alt="" class="graph-image">
  </p>
+ <style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+
 
 We can see that the tone of claims varies by actor. Civil society actors tend to make positive statements about all immigrants: In the figure, the hump of the curve in the first panel is on the right of the dashed line, indicating that most claims are positive. By contrast, anti-immigrant actors (mostly anti-immigrant parties) unsurprisingly make negative claims: The hump of the curve is on the left in panel 2. For the residual category in panel 3—government actors, other legislative parties, and the media—claims about asylum seekers, refugees, and irregular immigrants tend to be less positive than about other immigrant groups. Panel 4 shows that <a href="http://journals.sagepub.com/doi/10.1177/1354068818780533"><u>left-wing parties</u></a> tend to make fewer negative claims.
 
 Table 2 illustrates that the justification used in claims about asylum seekers, refugees, and irregular immigrants differs from those used for other immigrant groups. A justification, also referred to as a ‘frame’, describes the reasons actor give why something should be done about immigration and immigrant integration. Here we differentiate between three kinds of justifications. Actors justify their claims with instrumental arguments (e.g. a cost-benefit argument) and moral principles (commonly references to human rights) relatively more often than with differences in identity (such as an alleged clash in cultures).
 
 <p class="aligncenter">
-<img src="/assets/images/ruedin-table-2.png" alt="" height="112" width="567">
+<img src="/assets/images/ruedin-table-2.png" alt="" class="graph-image">
  </p>
+ <style>
+.aligncenter {
+    text-align: center;
+}
+</style>
 
 We thus find great variation in the way different actors talk about immigrants and immigration in the news. The debate on immigration focuses on particular groups—often asylum seekers, refugees, and irregular immigrants—groups who cannot directly counter claims made by others and have to rely on allies to speak on their behalf. Left-wing parties and especially civil-society actors tend to do this and balance the debate to a large extent. We need further study how different actors politicize immigration and how their varying involvement affects how immigrants are present in the media, and why the debate in the media focuses on such a small part of the immigrant population.
 
