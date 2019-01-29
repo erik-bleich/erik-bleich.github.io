@@ -41,6 +41,10 @@ title: Publications
 
     <h3>Media Contributions</h3>
 
+      <dd><a href="https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/23/sure-a-lot-of-newspaper-coverage-of-latinos-is-negative-but-not-when-it-comes-to-cultural-achievements/?utm_term=.a571ee920f44">“<span class="underline-active">Sure, a lot of newspaper coverage of Latinos is negative — but not when it comes to cultural achievements</span>” Erik Bleich & A. Maurits van der Veen, Washington Post/Monkey Cage, January 23, 2019</a></dd>
+
+      <br/>
+
       <dd><a href="https://www.washingtonpost.com/news/monkey-cage/wp/2018/12/20/newspaper-coverage-of-muslims-is-negative-and-its-not-because-of-terrorism/?utm_term=.1b76b249e1cf">“<span class="underline-active">Newspaper coverage of Muslims is negative. And it’s not because of terrorism.</span>” Erik Bleich & A. Maurits van der Veen, Washington Post/Monkey Cage, December 20, 2018</a></dd>
 
       <br/>
