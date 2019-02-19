@@ -37,11 +37,23 @@ title: About Us
 
     <!-- <div style="margin-top:100px"> </div> -->
 
+    <h3 class="name-header">Adrienne Goldstein</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/goldstein.jpeg" alt="" height="325px" width="325px"/>
+    <p class="bio-text">Adrienne Goldstein, Middlebury College ’20, is a History major and a Mathematics Minor from Chevy Chase, Maryland. She joined the Media Portrayals of Minorities Project in 2019, after taking the Media and Minorities Winter term course with Professor Bleich. Adrienne worked on the project “<a href="https://www.mediaandminorities.org/Venezuela/">How Do US Newspapers Cover the Venezuela Crisis?</a>” </p>
+
+    <!-- <div style="margin-top:100px"> </div> -->
+
     <h3 class="name-header">Rand Jibril</h3>
     <img class="bio-img" src="/assets/images/bio-pics/jibril.jpg" alt="" height="325px" width="300px"/>
     <p class="bio-text">Rand Jibril, Middlebury College ’20, is an International Politics and Economics major and a Global Health Minor from Ramallah, Palestine. She joined the Media Portrayals of Minorities Project in 2018, after taking the Media and Minorities lab Winter term course with Professor Bleich. Rand worked on a research study entitled “U.S. and U.K. Media Portrayal of Refugees and Asylum Seekers” with fellow group member Emily Stabler. </p>
 
-<!-- <div style="margin-top:100px"> </div> -->
+    <!-- <div style="margin-top:100px"> </div> -->
+
+    <h3 class="name-header">Yiyi Jin</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/jin.jpg" alt="" height="325px" width="325px"/>
+    <p class="bio-text">Yiyi Jin, Middlebury College ’19, is a Mathematics major and French minor from Beijing, China. She joined the Media Portrayals of Minorities Project group at the start of 2019, after taking the Media and Minorities course with Professor Bleich. Yiyi worked on a research study on media coverage of Asian Americans. </p>
+
+    <!-- <div style="margin-top:100px"> </div> -->
 
     <h3 class="name-header">Julien Souffrant</h3>
     <img class="bio-img" src="/assets/images/bio-pics/souffrant.jpg" alt="" height="300px" width="350px"/>
@@ -53,5 +65,10 @@ title: About Us
     <img class="bio-img" src="/assets/images/bio-pics/stabler.jpg" alt="" height="300px" width="350px"/>
     <p class="bio-text">Emily Stabler, Middlebury College ’19, is a Political Science major and Spanish minor from San Francisco, California. She joined the Media Portrayals of Minorities Project group in 2018, after taking the Media and Minorities Winter term course with Professor Bleich. Emily worked on a research study entitled “U.S. and U.K. Media Portrayal of Refugees and Asylum Seekers” with fellow group member Rand Jibril.</p>
 
+    <!-- <div style="margin-top:100px"> </div> -->
+
+    <h3 class="name-header">Varsha Vijayakumar</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/vijayakumar.jpeg" alt="" height="325px" width="300px"/>
+    <p class="bio-text">Varsha Vijayakumar, Middlebury College ’20, is a joint Political Science and Religion major from New Jersey. She joined the lab in the winter of 2019 after taking the Media and Minorities Winter term course with Professor Bleich, during which she researched the portrayal of African Americans in the US print media. </p>
 
 </section>
