@@ -27,5 +27,6 @@ The media’s shortcomings in portraying American Indians as people living in th
 
 In short, although the tone of newspaper articles may not be as negative as some analysts believe, coverage is hardly representative of the lives and experiences of American Indians today.
 
+-Adrienne Goldstein
 
 Methodological note: I examined 21,316 articles that contained the root word “Native American” or “American Indian” in The New York Times, The Wall Street Journal and The Washington Post published from January 1, 1999 to December 31, 2018. I used techniques including lexical sentiment analysis and regression analysis. For more information on our methods, see <a href="https://www.mediaandminorities.org/methods/"><u>here</u></a>. Photo credit: Jason Sinn
