@@ -16,6 +16,7 @@ title: The Lab
 
     <h3>Middlebury College students have undertaken a number of senior theses based on their participation in the lab. These include:</h3>
     <dt>
+        <dd>Emily Stabler (2019), “In the Wake of Tragedy” - Investigating Claims of Racial and Religious Prejudice in Media Coverage of Mass Shooters</dd>
         <dd>Razan Jabari (2018), Media Coverage of Palestinians and Israelis in the United States & the United Kingdom, 1996-2016</dd>
         <dd>James Callison (2018), Pushed to The Margins: How the News Media in the United States and United Kingdom Discuss Immigration</dd>
         <dd>Hasher Nisar (2017), Media, Geography, & Status Hierarchies - Muslims and Jews: Evidence from <i>The New York Times</i> and <i>The Guardian</i>, 1985-2014</dd>
@@ -26,8 +27,12 @@ title: The Lab
     <dt>
     <h3>Former student members of the lab include:</h3>
     <ul>
+      <li>Will DiGravio, 2019</li>
       <li>Mia Fichman, 2019</li>
       <li>Erin Hoynes, 2019</li>
+      <li>Yiyi Jin, 2019</li>
+      <li>Julien Souffrant, 2019</li>
+      <li>Emily Stabler, 2019</li>
       <li>David Valentin, 2019</li>
       <li>Razan Jabari, 2018</li>
       <li>Georgia Grace Edwards, 2018</li>
