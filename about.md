@@ -39,7 +39,7 @@ title: About Us
 
     <h3 class="name-header">Rand Jibril</h3>
     <img class="bio-img" src="/assets/images/bio-pics/jibril.jpg" alt="" height="325px" width="300px"/>
-    <p class="bio-text">Rand Jibril, Middlebury College ’20, is an International Politics and Economics major and a Global Health Minor from Ramallah, Palestine. She joined the Media Portrayals of Minorities Project in 2018, after taking the Media and Minorities lab Winter term course with Professor Bleich. Rand worked on a research study entitled “U.S. and U.K. Media Portrayal of Refugees and Asylum Seekers” with fellow group member Emily Stabler. </p>
+    <p class="bio-text">Rand Jibril, Middlebury College ’20, is an International Politics and Economics major and a Global Health Minor from Ramallah, Palestine. She joined the Media Portrayals of Minorities Project in 2018, after taking the Media and Minorities lab Winter term course with Professor Bleich. Rand worked on a research study entitled “U.S. and U.K. Media Portrayal of Refugees and Asylum Seekers.” </p>
 
     <!-- <div style="margin-top:100px"> </div> -->
 
