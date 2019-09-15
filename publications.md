@@ -52,6 +52,10 @@ title: Publications
 
     <h3>Media Contributions</h3>
 
+      <dd><a href="https://interfaithradio.org/StoryAudio/How_the_Media_Shapes_What_We_Think_About_Religious_Groups?fbclid=IwAR1NGKMsxXPYxiFBFCWA0KePfIfDSKl3DHfbo-JVQoudv4QJkSuvUqHB0-k">“<span class="underline-active">How the Media Shapes What We Think About Religious Groups</span>” Erik Bleich, Interfaith Radio, September 13, 2019</a></dd>
+
+      <br/>
+
       <dd><a href="https://www.washingtonpost.com/news/monkey-cage/wp/2019/01/23/sure-a-lot-of-newspaper-coverage-of-latinos-is-negative-but-not-when-it-comes-to-cultural-achievements/?utm_term=.a571ee920f44">“<span class="underline-active">Sure, a lot of newspaper coverage of Latinos is negative — but not when it comes to cultural achievements</span>” Erik Bleich & A. Maurits van der Veen, Washington Post/Monkey Cage, January 23, 2019</a></dd>
 
       <br/>
