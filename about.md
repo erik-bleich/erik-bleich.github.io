@@ -54,6 +54,12 @@ title: About Us
 
     <!-- <div style="margin-top:100px"> </div> -->
 
+    <h3 class="name-header">Amelia Pollard</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/pollard.jpg" alt="" height="350px" width="250px"/>
+    <p class="bio-text">Amelia Pollard, Middlebury College ’20, is a Political Science major with minors in History and French from New York. She joined the Media Portrayals of Minorities Project in 2019. </p>
+
+    <!-- <div style="margin-top:100px"> </div> -->
+
     <h3 class="name-header">Varsha Vijayakumar</h3>
     <img class="bio-img" src="/assets/images/bio-pics/vijayakumar.jpeg" alt="" height="325px" width="300px"/>
     <p class="bio-text">Varsha Vijayakumar, Middlebury College ’20, is a joint Political Science and Religion major from New Jersey. She joined the lab in the winter of 2019 after taking the Media and Minorities Winter term course with Professor Bleich, during which she researched the portrayal of African Americans in the US print media. </p>
