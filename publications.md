@@ -19,7 +19,7 @@ title: Publications
 
     </header>
         <!-- <span class="date"></span> -->
-        <p>The Media Portrayals of Minorities Project has generated scholarship that has been published in a range of venues. Our early publications drew largely on a human-coded database of article headlines. More recent work builds on computer-assisted methods of data analysis.</p>
+        <p>The Media Portrayals of Minorities Project has generated scholarship that has been published in a range of venues. Our earliest publications drew largely on a human-coded database of article headlines. More recent work typically builds on computer-assisted methods of data analysis.</p>
 
 
       <dd><a href="/assets/media-contributions/Bleich2018Latinx.pdf" download>“<u>The Good, the Bad, and the Ugly: A Corpus Linguistics Analysis of US Newspaper Coverage of Latinx, 1996–2016</u>,” Erik Bleich, James P Callison, Georgia Grace Edwards, Mia Fichman, Erin Hoynes, Razan Jabari, and A. Maurits van der Veen, <i>Journalism</i>, https://doi.org/10.1177/1464884918818252</a></dd>
@@ -28,10 +28,13 @@ title: Publications
       <dd><a href="/assets/media-contributions/Bleich2018PGIMuslims.pdf" download>“<u>Media Portrayals of Muslims: A Comparative Sentiment Analysis of American Newspapers, 1996–2015</u>,” Erik Bleich and A. Maurits van der Veen, <i>Politics, Groups, and Identities</i>, https://doi.org/10.1080/21565503.2018.1531770</a></dd>
       <br/>
 
+      <dd><a href="/assets/media-contributions/NisarBleich2020CMS.pdf" download>“<u>Group Status, Geographic Location, and the Tone of Media Coverage: Jews and Muslims in <i>New York Times</i> and <i>Guardian</i> Headlines, 1985–2014</u>,” Hasher Nisar and Erik Bleich, <i>Comparative Migration Studies</i>, 8, 3, 2020: 1-18</a></dd>
+      <br/>
+
       <dd><a href="/assets/media-contributions/Bleich2018Religions.pdf" download>“<u>Media Coverage of Muslim Devotion: A Four-Country Analysis of Newspaper Articles, 1996–2016</u>,” Erik Bleich, Julien Souffrant, Emily Stabler, and A. Maurits van der Veen, <i>Religions</i>, 9, 8, 2018: 247</a></dd>
       <br/>
 
-      <dd><a href="/assets/media-contributions/Bleich2018IJCS.pdf" download>“<u>Investigating Status Hierarchies with Media Analysis: Muslims, Jews, and Catholics in <i>The New York Times</i> and <i>The Guardian</i> Headlines, 1985-2014</u>,” Erik Bleich, Hasher Nisar, and Cara Vazquez, <i>International Journal of Comparative Sociology</i>, 2018</a></dd>
+      <dd><a href="/assets/media-contributions/Bleich2018IJCS.pdf" download>“<u>Investigating Status Hierarchies with Media Analysis: Muslims, Jews, and Catholics in <i>The New York Times</i> and <i>The Guardian</i> Headlines, 1985-2014</u>,” Erik Bleich, Hasher Nisar, and Cara Vazquez, <i>International Journal of Comparative Sociology</i>, 59, 3, 2018: 239-57</a></dd>
       <br/>
 
       <dd><a href="/assets/media-contributions/Bleich-2016-Muslims-NYT.pdf" download>“<span class="underline-active">The Effect of Terrorist Events on Media Portrayals of Islam and Muslims: Evidence from <i>New York Times</i> Headlines, 1985-2013</span>,” Erik Bleich, Hasher Nisar, and Rana Abdelhamid, <i>Ethnic and Racial Studies</i>, 39, 7, 2016: 1109-27</a></dd>
