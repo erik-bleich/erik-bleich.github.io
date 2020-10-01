@@ -25,6 +25,12 @@ title: Reports
         <h3>PLEASE CLICK ON THE TITLE OF THE DOCUMENT BELOW TO DOWNLOAD A COPY:</h3>
 
 
+        <dd><a href="/assets/media-contributions/AnnualReport2019.pdf" download><i>Report on Media Portrayals: 2019 Newspaper Coverage of African Americans, Asian Americans, Native Americans, Latinos, Jews, and Muslims</i>, Media Portrayals of Minorities Project, 2020</a></dd>
+        <br/>
+
+        <dd><a href="/assets/media-contributions/AnnualReport2019Appendix.pdf" download><i>Appendix to the Report on Media Portrayals: 2019 Newspaper Coverage of African Americans, Asian Americans, Native Americans, Latinos, Jews, and Muslims</i>, Media Portrayals of Minorities Project, 2020</a></dd>
+        <br/>
+
         <dd><a href="/assets/media-contributions/AnnualReport2018.pdf" download><i>Report on Media Portrayals: 2018 Newspaper Coverage of African Americans, Asian Americans, Latinos, Jews, and Muslims</i>, Media Portrayals of Minorities Project, 2019</a></dd>
         <br/>
 
