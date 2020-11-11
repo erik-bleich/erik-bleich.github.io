@@ -37,7 +37,7 @@ title: About Us
     <!-- <div style="margin-top:215px"> </div> -->
 
     <h3 class="name-header">Emma Brown</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/brown.jpg" alt="" height="330px" width="300px"/>
+    <img class="bio-img" src="/assets/images/bio-pics/brown.jpg" alt="" height="330px" width="280px"/>
     <p class="bio-text">Emma Brown, Middlebury College ‘21 is a Geography major and a Japanese Studies minor from Bozeman, Montana. She joined the Media Portrayals of Minority Project after taking the winter term lab course in 2020, during which she researched the portrayal of Israelis and Palestinians during the second intifada in UK and US newspapers.” </p>
 
     <!-- <div style="margin-top:100px"> </div> -->
