@@ -38,20 +38,24 @@ title: The Lab
     <dt>
     <h3>Former student members of the lab include:</h3>
     <ul>
-      <li>Will DiGravio, 2019</li>
-      <li>Mia Fichman, 2019</li>
-      <li>Erin Hoynes, 2019</li>
-      <li>Yiyi Jin, 2019</li>
-      <li>Julien Souffrant, 2019</li>
-      <li>Emily Stabler, 2019</li>
-      <li>David Valentin, 2019</li>
-      <li>Razan Jabari, 2018</li>
-      <li>Georgia Grace Edwards, 2018</li>
-      <li>James Callison, 2017.5</li>
-      <li>Hasher Nisar, 2016.5</li>
-      <li>Cara Vazquez, 2016.5</li>
-      <li>Rana Abdelhamid, 2015</li>
-      <li>Hannah Stonebraker, 2013</li>
+    <li>Mira Chugh, 2020</li>
+    <li>Adrienne Goldstein, 2020</li>
+    <li>Rand Jibril, 2020</li>
+    <li>Varsha Vijayakumar, 2020</li>
+    <li>Will DiGravio, 2019</li>
+    <li>Mia Fichman, 2019</li>
+    <li>Erin Hoynes, 2019</li>
+    <li>Yiyi Jin, 2019</li>
+    <li>Julien Souffrant, 2019</li>
+    <li>Emily Stabler, 2019</li>
+    <li>David Valentin, 2019</li>
+    <li>Razan Jabari, 2018</li>
+    <li>Georgia Grace Edwards, 2018</li>
+    <li>James Callison, 2017.5</li>
+    <li>Hasher Nisar, 2016.5</li>
+    <li>Cara Vazquez, 2016.5</li>
+    <li>Rana Abdelhamid, 2015</li>
+    <li>Hannah Stonebraker, 2013</li>
     </ul>
     </dt>
 

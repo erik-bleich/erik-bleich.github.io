@@ -36,15 +36,9 @@ title: About Us
 
     <!-- <div style="margin-top:215px"> </div> -->
 
-    <h3 class="name-header">Mira Chugh</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/chugh.jpg" alt="" height="330px" width="300px"/>
-    <p class="bio-text">Mira Chugh, Middlebury College ’20, is a Computer Science major from Connecticut. She joined the Media Portrayals of Minorities Project in 2018, after taking the Winter term lab course. Mira worked on a project in the Media and Minorities lab named “Newspaper Coverage of Victims of Sexual Assault and Misconduct.”</p>
-
-    <!-- <div style="margin-top:100px"> </div> -->
-
-    <h3 class="name-header">Adrienne Goldstein</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/goldstein.jpeg" alt="" height="325px" width="325px"/>
-    <p class="bio-text">Adrienne Goldstein, Middlebury College ’20, is a History major and a Mathematics Minor from Chevy Chase, Maryland. She joined the Media Portrayals of Minorities Project in 2019, after taking the Media and Minorities Winter term course with Professor Bleich. Adrienne worked on the project “<a href="https://www.mediaandminorities.org/Venezuela/">How Do US Newspapers Cover the Venezuela Crisis?</a>” </p>
+    <h3 class="name-header">Emma Brown</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/brown.jpg" alt="" height="330px" width="300px"/>
+    <p class="bio-text">Emma Brown, Middlebury College ‘21 is a Geography major and a Japanese Studies minor from Bozeman, Montana. She joined the Media Portrayals of Minority Project after taking the winter term lab course in 2020, during which she researched the portrayal of Israelis and Palestinians during the second intifada in UK and US newspapers.” </p>
 
     <!-- <div style="margin-top:100px"> </div> -->
 
@@ -63,12 +57,6 @@ title: About Us
     <h3 class="name-header">Amelia Pollard</h3>
     <img class="bio-img" src="/assets/images/bio-pics/pollard.jpg" alt="" height="350px" width="250px"/>
     <p class="bio-text">Amelia Pollard, Middlebury College ’20, is a Political Science major with minors in History and French from New York. She joined the Media Portrayals of Minorities Project in 2019. </p>
-
-    <!-- <div style="margin-top:100px"> </div> -->
-
-    <h3 class="name-header">Varsha Vijayakumar</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/vijayakumar.jpeg" alt="" height="325px" width="300px"/>
-    <p class="bio-text">Varsha Vijayakumar, Middlebury College ’20, is a joint Political Science and Religion major from New Jersey. She joined the lab in the winter of 2019 after taking the Media and Minorities Winter term course with Professor Bleich, during which she researched the portrayal of African Americans in the US print media. </p>
 
     <!-- <div style="margin-top:100px"> </div> -->
 
