@@ -38,13 +38,13 @@ title: About Us
 
     <h3 class="name-header">Emma Brown</h3>
     <img class="bio-img" src="/assets/images/bio-pics/brown.jpg" alt="" height="330px" width="280px"/>
-    <p class="bio-text">Emma Brown, Middlebury College ‘21 is a Geography major and a Japanese Studies minor from Bozeman, Montana. She joined the Media Portrayals of Minority Project after taking the winter term lab course in 2020, during which she researched the portrayal of Israelis and Palestinians during the second intifada in UK and US newspapers.” </p>
+    <p class="bio-text">Emma Brown, Middlebury College ’21 is a Geography major and a Japanese Studies minor from Bozeman, Montana. She joined the Media Portrayals of Minority Project after taking the winter term lab course in 2020, during which she researched the portrayal of Israelis and Palestinians during the second intifada in UK and US newspapers.” </p>
 
     <!-- <div style="margin-top:100px"> </div> -->
 
     <h3 class="name-header">Lukas Kauth</h3>
     <img class="bio-img" src="/assets/images/bio-pics/kauth.jpeg" alt="" height="325px" width="300px"/>
-    <p class="bio-text">Lukas Kauth, Middlebury College '21, is an English and Political Science major from Boston, Massachusetts. He joined the lab in the Spring of 2020 after taking the Media and Minorities winter term course. During the course, Lukas worked on a study of media portrayals of the LGBTQ community over the past two decades. </p>
+    <p class="bio-text">Lukas Kauth, Middlebury College ’21, is an English and Political Science major from Boston, Massachusetts. He joined the lab in the Spring of 2020 after taking the Media and Minorities winter term course. During the course, Lukas worked on a study of media portrayals of the LGBTQ community over the past two decades. </p>
 
     <!-- <div style="margin-top:100px"> </div> -->
 
@@ -62,6 +62,6 @@ title: About Us
 
     <h3 class="name-header">Emily Wander</h3>
     <img class="bio-img" src="/assets/images/bio-pics/wander.png" alt="" height="335px" width="250px"/>
-    <p class="bio-text">Emily Wander, Middlebury College '21, is a Mathematics and Sociology double major from New York. She joined the lab in 2020 after taking the Media and Minorities Winter Term course with Professor Bleich, during which she worked on a study of racially coded neighborhoods in major American cities. </p>
+    <p class="bio-text">Emily Wander, Middlebury College ’21, is a Mathematics and Sociology double major from New York. She joined the lab in 2020 after taking the Media and Minorities Winter Term course with Professor Bleich, during which she worked on a study of racially coded neighborhoods in major American cities. </p>
 
 </section>
