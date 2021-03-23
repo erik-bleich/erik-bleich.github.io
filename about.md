@@ -49,7 +49,7 @@ title: About Us
     <!-- <div style="margin-top:100px"> </div> -->
 
     <h3 class="name-header">Abigail Chang</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/chang.jpeg" alt="" height="350px" width="250px"/>
+    <img class="bio-img" src="/assets/images/bio-pics/chang.jpg" alt="" height="350px" width="250px"/>
     <p class="bio-text">Abigail Chang, Middlebury College ’23, is an English major and intended Linguistics minor from Connecticut. She joined the lab in 2021 after taking the winter term methods course, during which she studied media portrayals of far-right and far-left groups. </p>
 
     <!-- <div style="margin-top:100px"> </div> -->
