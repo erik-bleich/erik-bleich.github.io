@@ -38,6 +38,7 @@ title: The Lab
     <dt>
     <h3>Former student members of the lab include:</h3>
     <ul>
+    <li>Amelia Pollard, 2020.5</li>
     <li>Mira Chugh, 2020</li>
     <li>Adrienne Goldstein, 2020</li>
     <li>Rand Jibril, 2020</li>

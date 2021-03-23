@@ -38,7 +38,19 @@ title: About Us
 
     <h3 class="name-header">Emma Brown</h3>
     <img class="bio-img" src="/assets/images/bio-pics/brown.jpg" alt="" height="330px" width="280px"/>
-    <p class="bio-text">Emma Brown, Middlebury College ’21 is a Geography major and a Japanese Studies minor from Bozeman, Montana. She joined the Media Portrayals of Minority Project after taking the winter term lab course in 2020, during which she researched the portrayal of Israelis and Palestinians during the second intifada in UK and US newspapers.” </p>
+    <p class="bio-text">Emma Brown, Middlebury College ’21, is a Geography major and a Japanese Studies minor from Bozeman, Montana. She joined the Media Portrayals of Minority Project after taking the winter term lab course in 2020, during which she researched the portrayal of Israelis and Palestinians during the second intifada in UK and US newspapers. </p>
+
+    <!-- <div style="margin-top:100px"> </div> -->
+
+    <h3 class="name-header">Isabel Chandler</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/chandler.jpeg" alt="" height="325px" width="300px"/>
+    <p class="bio-text">Isabel Chandler, Middlebury College ’21.5, is a double major in International Politics and Economics and Russian Studies from Denver, Colorado. She joined the Media Portrayals of Minorities Project in 2021, after taking the winter term lab course during which she researched the portrayal of Black Americans over the past twenty-one years. </p>
+
+    <!-- <div style="margin-top:100px"> </div> -->
+
+    <h3 class="name-header">Abigail Chang</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/chang.jpeg" alt="" height="325px" width="300px"/>
+    <p class="bio-text">Abigail Chang, Middlebury College ’23, is an English major and intended Linguistics minor from Connecticut. She joined the lab in 2021 after taking the winter term methods course, during which she studied media portrayals of far-right and far-left groups. </p>
 
     <!-- <div style="margin-top:100px"> </div> -->
 
@@ -54,9 +66,9 @@ title: About Us
 
     <!-- <div style="margin-top:100px"> </div> -->
 
-    <h3 class="name-header">Amelia Pollard</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/pollard.jpg" alt="" height="350px" width="250px"/>
-    <p class="bio-text">Amelia Pollard, Middlebury College ’20, is a Political Science major with minors in History and French from New York. She joined the Media Portrayals of Minorities Project in 2019. </p>
+    <h3 class="name-header">Nicolas Pantelick</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/pantelick.jpg" alt="" height="350px" width="250px"/>
+    <p class="bio-text">Nicolas Pantelick, Middlebury College ’24, is a prospective International & Global Studies major with a Middle East and Arabic language concentration from San Francisco, California. He joined the Media Portrayals of Minorities Project in Spring 2021 after taking the lab’s winter term course, during which he researched US media coverage of protest movements throughout the Trump Presidency. </p>
 
     <!-- <div style="margin-top:100px"> </div> -->
 
