@@ -25,7 +25,10 @@ title: Publications
       <dd><a href="/assets/media-contributions/Bleich2018Latinx.pdf" download>“<u>The Good, the Bad, and the Ugly: A Corpus Linguistics Analysis of US Newspaper Coverage of Latinx, 1996–2016</u>,” Erik Bleich, James P Callison, Georgia Grace Edwards, Mia Fichman, Erin Hoynes, Razan Jabari, and A. Maurits van der Veen, <i>Journalism</i>, https://doi.org/10.1177/1464884918818252</a></dd>
       <br/>
 
-      <dd><a href="/assets/media-contributions/Bleich2018PGIMuslims.pdf" download>“<u>Media Portrayals of Muslims: A Comparative Sentiment Analysis of American Newspapers, 1996–2015</u>,” Erik Bleich and A. Maurits van der Veen, <i>Politics, Groups, and Identities</i>, https://doi.org/10.1080/21565503.2018.1531770</a></dd>
+      <dd><a href="/assets/media-contributions/Bleich2021PGIMuslims.pdf" download>“<u>Media Portrayals of Muslims: A Comparative Sentiment Analysis of American Newspapers, 1996–2015</u>,” Erik Bleich and A. Maurits van der Veen, <i>Politics, Groups, and Identities</i>, 9, 1, 2021:20-39</a></dd>
+      <br/>
+
+      <dd><a href="/assets/media-contributions/Bleich2020JSAfrica.pdf" download>“<u>Afro-Pessimist or Africa Rising? US Newspaper Coverage of Africa, 1994-2018</u>,” Erik Bleich, Mira Chugh, Adrienne Goldstein, Amelia Pollard, Varsha Vijayakumar, and A. Maurits van der Veen, <i>Journalism Studies</i>, 21, 13, 2020: 1775-94</a></dd>
       <br/>
 
       <dd><a href="/assets/media-contributions/NisarBleich2020CMS.pdf" download>“<u>Group Status, Geographic Location, and the Tone of Media Coverage: Jews and Muslims in <i>New York Times</i> and <i>Guardian</i> Headlines, 1985–2014</u>,” Hasher Nisar and Erik Bleich, <i>Comparative Migration Studies</i>, 8, 3, 2020: 1-18</a></dd>
