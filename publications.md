@@ -22,10 +22,13 @@ title: Publications
         <p>The Media Portrayals of Minorities Project has generated scholarship that has been published in a range of venues. Our earliest publications drew largely on a human-coded database of article headlines. More recent work typically builds on computer-assisted methods of data analysis.</p>
 
 
-      <dd><a href="/assets/media-contributions/Bleich2018Latinx.pdf" download>“<u>The Good, the Bad, and the Ugly: A Corpus Linguistics Analysis of US Newspaper Coverage of Latinx, 1996–2016</u>,” Erik Bleich, James P Callison, Georgia Grace Edwards, Mia Fichman, Erin Hoynes, Razan Jabari, and A. Maurits van der Veen, <i>Journalism</i>, https://doi.org/10.1177/1464884918818252</a></dd>
+      <dd><a href="/assets/media-contributions/Bleich2021Atheism.pdf" download>“<u>Atheism in US and UK Newspapers: Negativity about Non-Belief and Non-Believers</u>,” Erik Bleich and A. Maurits van der Veen, <i>Religions</i>, 12, 5, 2021: 291-310</a></dd>
       <br/>
 
-      <dd><a href="/assets/media-contributions/Bleich2021PGIMuslims.pdf" download>“<u>Media Portrayals of Muslims: A Comparative Sentiment Analysis of American Newspapers, 1996–2015</u>,” Erik Bleich and A. Maurits van der Veen, <i>Politics, Groups, and Identities</i>, 9, 1, 2021:20-39</a></dd>
+      <dd><a href="/assets/media-contributions/Bleich2021PGIMuslims.pdf" download>“<u>Media Portrayals of Muslims: A Comparative Sentiment Analysis of American Newspapers, 1996–2015</u>,” Erik Bleich and A. Maurits van der Veen, <i>Politics, Groups, and Identities</i>, 9, 1, 2021: 20-39</a></dd>
+      <br/>
+
+      <dd><a href="/assets/media-contributions/Bleich2018Latinx.pdf" download>“<u>The Good, the Bad, and the Ugly: A Corpus Linguistics Analysis of US Newspaper Coverage of Latinx, 1996–2016</u>,” Erik Bleich, James P Callison, Georgia Grace Edwards, Mia Fichman, Erin Hoynes, Razan Jabari, and A. Maurits van der Veen, <i>Journalism</i>, https://doi.org/10.1177/1464884918818252</a></dd>
       <br/>
 
       <dd><a href="/assets/media-contributions/Bleich2020JSAfrica.pdf" download>“<u>Afro-Pessimist or Africa Rising? US Newspaper Coverage of Africa, 1994-2018</u>,” Erik Bleich, Mira Chugh, Adrienne Goldstein, Amelia Pollard, Varsha Vijayakumar, and A. Maurits van der Veen, <i>Journalism Studies</i>, 21, 13, 2020: 1775-94</a></dd>
@@ -34,7 +37,7 @@ title: Publications
       <dd><a href="/assets/media-contributions/NisarBleich2020CMS.pdf" download>“<u>Group Status, Geographic Location, and the Tone of Media Coverage: Jews and Muslims in <i>New York Times</i> and <i>Guardian</i> Headlines, 1985–2014</u>,” Hasher Nisar and Erik Bleich, <i>Comparative Migration Studies</i>, 8, 3, 2020: 1-18</a></dd>
       <br/>
 
-      <dd><a href="/assets/media-contributions/Bleich2018Religions.pdf" download>“<u>Media Coverage of Muslim Devotion: A Four-Country Analysis of Newspaper Articles, 1996–2016</u>,” Erik Bleich, Julien Souffrant, Emily Stabler, and A. Maurits van der Veen, <i>Religions</i>, 9, 8, 2018: 247</a></dd>
+      <dd><a href="/assets/media-contributions/Bleich2018Religions.pdf" download>“<u>Media Coverage of Muslim Devotion: A Four-Country Analysis of Newspaper Articles, 1996–2016</u>,” Erik Bleich, Julien Souffrant, Emily Stabler, and A. Maurits van der Veen, <i>Religions</i>, 9, 8, 2018: 247-61</a></dd>
       <br/>
 
       <dd><a href="/assets/media-contributions/Bleich2018IJCS.pdf" download>“<u>Investigating Status Hierarchies with Media Analysis: Muslims, Jews, and Catholics in <i>The New York Times</i> and <i>The Guardian</i> Headlines, 1985-2014</u>,” Erik Bleich, Hasher Nisar, and Cara Vazquez, <i>International Journal of Comparative Sociology</i>, 59, 3, 2018: 239-57</a></dd>
