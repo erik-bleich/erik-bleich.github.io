@@ -30,16 +30,6 @@ title: Our Methods
   <p>Using collocations and topic modeling, we can compare how different media outlets within a country or across countries discuss particular groups. Are some newspapers more prone to cover Latinos using positive words? Does the press in some countries use more negative words to discuss Muslims? What are the most common themes found in “refugee” articles, and do the differ according to whether the stories are found in the American or British press? Our methods allow us to answer questions like these.</p>
 
   <p>For more detailed information about our methods and for examples of how they are applied in scholarly articles, please see our <a href="https://www.mediaandminorities.org/publications/"><u>publications</u></a> or request our papers in progress, and email us with questions or comments.</p>
-  <dt>
 
-  <h3>PAPERS IN PROGESS:</h3>
-
-    <dd>“How Negative is the Negative Coverage of Muslims? A New Approach to Sentiment Analysis for the Social Sciences,” A. Maurits van der Veen and Erik Bleich</dd>
-
-    <br/>
-
-
-
-    </dt>
 
 </section>

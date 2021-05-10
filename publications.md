@@ -19,7 +19,7 @@ title: Publications
 
     </header>
         <!-- <span class="date"></span> -->
-        <p>The Media Portrayals of Minorities Project has generated scholarship that has been published in a range of venues. Our earliest publications drew largely on a human-coded database of article headlines. More recent work typically builds on computer-assisted methods of data analysis.</p>
+        <p>The Media Portrayals of Minorities Project has generated scholarship that has been published in a range of venues. Our earliest publications drew largely on a human-coded database of article headlines. More recent work builds on computer-assisted methods of data analysis.</p>
 
 
       <dd><a href="/assets/media-contributions/Bleich2021Atheism.pdf" download>“<u>Atheism in US and UK Newspapers: Negativity about Non-Belief and Non-Believers</u>,” Erik Bleich and A. Maurits van der Veen, <i>Religions</i>, 12, 5, 2021: 291-310</a></dd>
@@ -60,6 +60,10 @@ title: Publications
     </header>
 
     <h3>Media Contributions</h3>
+
+     <dd><a href="https://www.washingtonpost.com/politics/2020/10/02/how-do-newspapers-cover-racial-religious-minorities-heres-data/">“<span class="underline-active">How do newspapers cover racial and religious minorities? Here’s the data.</span>” Joshua Tucker, Washington Post/Monkey Cage, October 2, 2020</a></dd>
+
+     <br/>
 
       <dd><a href="https://interfaithradio.org/StoryAudio/How_the_Media_Shapes_What_We_Think_About_Religious_Groups?fbclid=IwAR1NGKMsxXPYxiFBFCWA0KePfIfDSKl3DHfbo-JVQoudv4QJkSuvUqHB0-k">“<span class="underline-active">How the Media Shapes What We Think About Religious Groups</span>” Erik Bleich, Interfaith Radio, September 13, 2019</a></dd>
 
