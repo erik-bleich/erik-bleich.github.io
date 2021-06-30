@@ -20,10 +20,16 @@ title: Reports
 
     </header>
         <!-- <span class="date"></span> -->
-        <p>The Media Portrayals of Minorities Project produces periodic reports that compare media coverage of different groups. Our first report examines five prominent racial, ethnic, and religious groups in the United States in 2018. It identifies the amount and tone of coverage associated with each group, trends over a five-year time period, and the most prominent themes in stories about these groups.</p>
+        <p>The Media Portrayals of Minorities Project produces periodic reports that compare media coverage of different groups. Our reports examine six racial, ethnic, and religious groups in the United States. They identify the amount and tone of coverage associated with each group, trends over a five-year time period, and the most prominent themes in stories about these groups.</p>
 
         <h3>PLEASE CLICK ON THE TITLE OF THE DOCUMENT BELOW TO DOWNLOAD A COPY:</h3>
 
+
+        <dd><a href="/assets/media-contributions/AnnualReport2020.pdf" download><i>Report on Media Portrayals: 2020 Newspaper Coverage of African Americans, Asian Americans, Native Americans, Latinos, Jews, and Muslims</i>, Media Portrayals of Minorities Project, 2021</a></dd>
+        <br/>
+
+        <dd><a href="/assets/media-contributions/AnnualReport2020Appendix.pdf" download><i>Appendix to the Report on Media Portrayals: 2020 Newspaper Coverage of African Americans, Asian Americans, Native Americans, Latinos, Jews, and Muslims</i>, Media Portrayals of Minorities Project, 2021</a></dd>
+        <br/>
 
         <dd><a href="/assets/media-contributions/AnnualReport2019.pdf" download><i>Report on Media Portrayals: 2019 Newspaper Coverage of African Americans, Asian Americans, Native Americans, Latinos, Jews, and Muslims</i>, Media Portrayals of Minorities Project, 2020</a></dd>
         <br/>
