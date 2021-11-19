@@ -36,11 +36,6 @@ title: About Us
 
     <!-- <div style="margin-top:215px"> </div> -->
 
-    <h3 class="name-header">Emma Brown</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/brown.jpg" alt="" height="330px" width="280px"/>
-    <p class="bio-text">Emma Brown, Middlebury College ’21, is a Geography major and a Japanese Studies minor from Bozeman, Montana. She joined the Media Portrayals of Minority Project after taking the winter term lab course in 2020, during which she researched the portrayal of Israelis and Palestinians during the second intifada in UK and US newspapers. </p>
-
-    <!-- <div style="margin-top:100px"> </div> -->
 
     <h3 class="name-header">Isabel Chandler</h3>
     <img class="bio-img" src="/assets/images/bio-pics/chandler.jpeg" alt="" height="280px" width="280px"/>
@@ -52,28 +47,5 @@ title: About Us
     <img class="bio-img" src="/assets/images/bio-pics/chang.jpg" alt="" height="350px" width="250px"/>
     <p class="bio-text">Abigail Chang, Middlebury College ’23, is an English major and intended Linguistics minor from Connecticut. She joined the lab in 2021 after taking the winter term methods course, during which she studied media portrayals of far-right and far-left groups. </p>
 
-    <!-- <div style="margin-top:100px"> </div> -->
-
-    <h3 class="name-header">Lukas Kauth</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/kauth.jpeg" alt="" height="325px" width="300px"/>
-    <p class="bio-text">Lukas Kauth, Middlebury College ’21, is an English and Political Science major from Boston, Massachusetts. He joined the lab in the Spring of 2020 after taking the Media and Minorities winter term course. During the course, Lukas worked on a study of media portrayals of the LGBTQ community over the past two decades. </p>
-
-    <!-- <div style="margin-top:100px"> </div> -->
-
-    <h3 class="name-header">Kai Milici</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/milici.jpg" alt="" height="300px" width="275px"/>
-    <p class="bio-text">Kai Milici, Middlebury College ’21, is a joint Geography and Political Science major from Seattle, Washington. She joined the Media Portrayals of Minorities Project in 2020, after taking the winter term lab course during which she researched the portrayal of Israelis and Palestinians during the second intifada, by both UK and US newspapers. </p>
-
-    <!-- <div style="margin-top:100px"> </div> -->
-
-    <h3 class="name-header">Nicolas Pantelick</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/pantelick.jpg" alt="" height="350px" width="250px"/>
-    <p class="bio-text">Nicolas Pantelick, Middlebury College ’24, is a prospective International & Global Studies major with a Middle East and Arabic language concentration from San Francisco, California. He joined the Media Portrayals of Minorities Project in Spring 2021 after taking the lab’s winter term course, during which he researched US media coverage of protest movements throughout the Trump Presidency. </p>
-
-    <!-- <div style="margin-top:100px"> </div> -->
-
-    <h3 class="name-header">Emily Wander</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/wander.png" alt="" height="335px" width="250px"/>
-    <p class="bio-text">Emily Wander, Middlebury College ’21, is a Mathematics and Sociology double major from New York. She joined the lab in 2020 after taking the Media and Minorities Winter Term course with Professor Bleich, during which she worked on a study of racially coded neighborhoods in major American cities. </p>
 
 </section>

@@ -38,6 +38,11 @@ title: The Lab
     <dt>
     <h3>Former student members of the lab include:</h3>
     <ul>
+    <li>Nicolas Pantelick, 2024</li>
+    <li>Emma Brown, 2021</li>
+    <li>Lukas Kauth, 2021</li>
+    <li>Kai Milici, 2021</li>
+    <li>Emily Wander, 2021</li>
     <li>Amelia Pollard, 2020.5</li>
     <li>Mira Chugh, 2020</li>
     <li>Adrienne Goldstein, 2020</li>
