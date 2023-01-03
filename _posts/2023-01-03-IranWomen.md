@@ -1,11 +1,9 @@
-
 ---
 layout: post
 title: Women, Life, Freedom. (زن زندگی آزادی)
-description: US Media Portrayals of Iranian Women
+description: US media portrayals of Iranian women
 image: assets/images/Iranpic.jpg
 ---
-
 
 On September 16, 2022, Mahsa Amini, a 22-year-old Kurdish Iranian woman, died in custody only three days after being pulled off the street by the morality police in Tehran. She was detained and <a href="https://www.ohchr.org/en/press-releases/2022/09/iran-un-experts-demand-accountability-death-mahsa-amini-call-end-violence"><u>transferred to the Vozara Detention Center</u></a> after being caught not wearing her hijab properly. The Iranian regime originally claimed Amini died due to <a href="https://www.ohchr.org/en/press-releases/2022/09/iran-un-experts-demand-accountability-death-mahsa-amini-call-end-violence"><u>heart failure</u></a>, however, <a href="https://www.theguardian.com/commentisfree/2022/sep/25/observer-view-backlash-iran-death-mahsa-amini"><u>eyewitnesses insisted</u></a> that Amini was brutally beaten in police custody and as a result, <a href="https://www.theguardian.com/global-development/2022/sep/16/iranian-woman-dies-after-being-beaten-by-morality-police-over-hijab-law"><u>died in a coma in the hospital</u></a>.
 
@@ -38,4 +36,4 @@ In recent US media coverage, Iranian women have become the center of the narrati
 
 -Nikki Sadat
 
-Methodological note: I examined all 4,075 articles containing the root words “Iran” in The New York Times, The Wall Street Journal, The Washington Post, and USA Today, published between January 1, 2022, and December 31, 2022. For additional information regarding our methods, see <a href="https://www.mediaandminorities.org/methods/"><u>here</u></a>. Photo Credit: Davide Bonaldo / SOPA Images via <a href="http://www.zuma24.com/"><u>ZUMA</u></a>. 
+Methodological note: I examined all 4,075 articles containing the root words “Iran” in The New York Times, The Wall Street Journal, The Washington Post, and USA Today, published between January 1, 2022, and December 31, 2022. For additional information regarding our methods, see <a href="https://www.mediaandminorities.org/methods/"><u>here</u></a>. Photo Credit: Davide Bonaldo / SOPA Images via <a href="http://www.zuma24.com/"><u>ZUMA</u></a>.
