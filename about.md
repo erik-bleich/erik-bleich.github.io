@@ -37,21 +37,21 @@ title: About Us
     <!-- <div style="margin-top:100px"> </div> -->
 
     <h3 class="name-header">Abigail Chang</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/ChangHeadshot.jpg" alt="" height="250px" width="350px"/>
+    <img class="bio-img" src="/assets/images/bio-pics/ChangHeadshot.png" alt="" height="250px" width="350px"/>
     <p class="bio-text">Abigail Chang, Middlebury College ’23, is an English major and linguistics minor from Connecticut. She joined the lab in 2021 after taking the winter term methods course, during which she studied media portrayals of far-right and far-left groups. </p>
 
     <!-- <div style="margin-top:215px"> </div> -->
 
 
     <h3 class="name-header">Eliza King Freedman</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/FreedmanHeadshot.jpeg" alt="" height="250px" width="350px"/>
+    <img class="bio-img" src="/assets/images/bio-pics/FreedmanHeadshot.jpg" alt="" height="250px" width="350px"/>
     <p class="bio-text">Eliza King Freedman, Middlebury College '23, is a Political Science major and an Arabic minor from New York City. She joined the lab after working at the Middlebury Institute for International Studies at the Center on Terrorism, Extremism, and Counterterrorism and the James Martin Center for Nonproliferation Studies. She brings interests in online extremism and cyberwarfare to her studies in the lab. </p>
 
     <!-- <div style="margin-top:215px"> </div> -->
 
 
     <h3 class="name-header">Nikki Sadat</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/SadatHeadshot.jpeg" alt="" height="280px" width="280px"/>
+    <img class="bio-img" src="/assets/images/bio-pics/SadatHeadshot.jpg" alt="" height="280px" width="280px"/>
     <p class="bio-text">Nikki Sadat, Middlebury College '23.5, is an International and Global European Studies major and Political Science minor from Los Angeles, California. She joined the lab in spring 2022 and is interested in studying media portrayals of Iran and the Iranian diaspora. </p>
 
     <!-- <div style="margin-top:215px"> </div> -->
