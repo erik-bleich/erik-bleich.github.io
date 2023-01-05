@@ -22,6 +22,27 @@ title: Publications
         <p>The Media Portrayals of Minorities Project has generated scholarship that has been published in a range of venues. Our earliest publications drew largely on a human-coded database of article headlines. More recent work builds on computer-assisted methods of data analysis.</p>
 
 
+      <dd><a href="https://global.oup.com/academic/product/covering-muslims-9780197611722?cc=us&lang=en&"><u><i>Covering Muslims: American Newspapers in Comparative Perspective</u></i></a>, Erik Bleich and A. Maurits van der Veen, Oxford University Press, 2022</a></dd>
+      <br/>
+
+      <dd><a href="/assets/media-contributions/Bleich2022PoP.pdf" download>“<u>Critical Dialogue - Covering Muslims: American Newspapers in Comparative Perspective and The Struggle for Inclusion: Muslim Minorities and the Democratic Ethos</u>,” A. Maurits van der Veen, Erik Bleich, Elisabeth Ivarsflaten, and Paul Sniderman, <i>Perspectives on Politics</i>, 20, 4, 2022: 1403-07</a></dd>
+      <br/>
+
+      <dd><a href="/assets/media-contributions/Bleich2022PNAS.pdf" download>“<u>Chronic Frames of Social Inequality: How Mainstream Media Frame Race, Gender, and Wealth Inequality</u>,” Sora Jun, Rosalind Chow, A. Maurits van der Veen, and Erik Bleich, <i>PNAS</i>, 119, 21, 2022</a></dd>
+      <br/>
+
+      <dd><a href="/assets/media-contributions/Bleich2022PR.pdf" download>“<u>Assessing the Effect of Media Tone on Attitudes toward Muslims: Evidence from an Online Experiment</u>,” Erik Bleich, Jeffrey Carpenter, and A. Maurits van der Veen, <i>Politics and Religion</i>, 15, 3, 2022: 441-61</a></dd>
+      <br/>
+
+      <dd><a href="/assets/media-contributions/Bleich2022IJPP.pdf" download>“<u>Looking in the Mirror: US and French Coverage of Black Lives Matter in France</u>,” Erik Bleich, Amelia Pollard, and A. Maurits van der Veen, <i>International Journal of Press/Politics,</i>, 2022</a></dd>
+      <br/>
+
+      <dd><a href="/assets/media-contributions/Bleich2022QdC.pdf" download>“<u>Un miroir tendu par les Etats-Unis’: La couverture journalistique de Black Lives Matter en France</u>,” Erik Bleich, <i>Questions de communication</i>, 41, 1, 2022: 31-48</a></dd>
+      <br/>
+
+      <dd><a href="/assets/media-contributions/Bleich2021BJWA.pdf" download>“<u>What Did 9/11 Mean for US Media Coverage of Muslims and Islam?</u>,” A. Maurits van der Veen and Erik Bleich, <i>Brown Journal of World Affairs</i>, Fall/Winter, 2021: 164-178</a></dd>
+      <br/>
+
       <dd><a href="/assets/media-contributions/Bleich2021Atheism.pdf" download>“<u>Atheism in US and UK Newspapers: Negativity about Non-Belief and Non-Believers</u>,” Erik Bleich and A. Maurits van der Veen, <i>Religions</i>, 12, 5, 2021: 291-310</a></dd>
       <br/>
 

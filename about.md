@@ -34,18 +34,33 @@ title: About Us
     <p class="bio-text"><a class="link" href="https://www.wm.edu/as/internationalrelations/faculty/Veen_m.php">A. Maurits van der Veen</a> is a faculty affiliate of the Media Portrayals of Minorities Project. He is Associate Professor of Government at William & Mary, where he directs the <a href="https://stair.wm.edu/">STAIR lab</a>. He develops text analysis procedures that we use in Media Portrayals of Minorities Project research and is a co-author on numerous research projects.     
     </p>
 
-    <!-- <div style="margin-top:215px"> </div> -->
-
-
-    <h3 class="name-header">Isabel Chandler</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/chandler.jpeg" alt="" height="280px" width="280px"/>
-    <p class="bio-text">Isabel Chandler, Middlebury College ’21.5, is a double major in International Politics and Economics and Russian Studies from Denver, Colorado. She joined the Media Portrayals of Minorities Project in 2021, after taking the winter term lab course during which she researched the portrayal of Black Americans over the past twenty-one years. </p>
-
     <!-- <div style="margin-top:100px"> </div> -->
 
     <h3 class="name-header">Abigail Chang</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/chang.jpg" alt="" height="350px" width="250px"/>
-    <p class="bio-text">Abigail Chang, Middlebury College ’23, is an English major and intended Linguistics minor from Connecticut. She joined the lab in 2021 after taking the winter term methods course, during which she studied media portrayals of far-right and far-left groups. </p>
+    <img class="bio-img" src="/assets/images/bio-pics/ChangHeadshot.jpg" alt="" height="250px" width="350px"/>
+    <p class="bio-text">Abigail Chang, Middlebury College ’23, is an English major and linguistics minor from Connecticut. She joined the lab in 2021 after taking the winter term methods course, during which she studied media portrayals of far-right and far-left groups. </p>
+
+    <!-- <div style="margin-top:215px"> </div> -->
+
+
+    <h3 class="name-header">Eliza King Freedman</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/FreedmanHeadshot.jpeg" alt="" height="250px" width="350px"/>
+    <p class="bio-text">Eliza King Freedman, Middlebury College '23, is a Political Science major and an Arabic minor from New York City. She joined the lab after working at the Middlebury Institute for International Studies at the Center on Terrorism, Extremism, and Counterterrorism and the James Martin Center for Nonproliferation Studies. She brings interests in online extremism and cyberwarfare to her studies in the lab. </p>
+
+    <!-- <div style="margin-top:215px"> </div> -->
+
+
+    <h3 class="name-header">Nikki Sadat</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/SadatHeadshot.jpeg" alt="" height="280px" width="280px"/>
+    <p class="bio-text">Nikki Sadat, Middlebury College '23.5, is an International and Global European Studies major and Political Science minor from Los Angeles, California. She joined the lab in spring 2022 and is interested in studying media portrayals of Iran and the Iranian diaspora. </p>
+
+    <!-- <div style="margin-top:215px"> </div> -->
+
+
+    <h3 class="name-header">Abbey Tinsley</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/TinsleyHeadshot.jpeg" alt="" height="280px" width="280px"/>
+    <p class="bio-text">Abbey Tinsley, Middlebury College ’23, is a Political Science and Spanish double major. She joined the lab in the spring 2022, and is excited to continue the lab’s work on tracking the evolution of what it means to be “politically correct” as well as investigate the sentiments surrounding abortion in 2022. </p>
+
 
 
 </section>
