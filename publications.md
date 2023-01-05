@@ -43,7 +43,7 @@ title: Publications
       <dd><a href="/assets/media-contributions/Bleich2021BJWA.pdf" download>“<u>What Did 9/11 Mean for US Media Coverage of Muslims and Islam?</u>,” A. Maurits van der Veen and Erik Bleich, <i>Brown Journal of World Affairs</i>, Fall/Winter, 2021: 164-178</a></dd>
       <br/>
 
-      <dd><a href="/assets/media-contributions/Bleich2021Atheism.pdf" download>“<u>Atheism in US and UK Newspapers: Negativity about Non-Belief and Non-Believers</u>,” Erik Bleich and A. Maurits van der Veen, <i>Religions</i>, 12, 5, 2021: 291-310</a></dd>
+      <dd><a href="/assets/media-contributions/Bleich2021Atheism.pdf" download>“<u>Atheism in US and UK Newspapers: Negativity about Non-Belief and Non-Believers</u>,” A. Maurits van der Veen and Erik Bleich, <i>Religions</i>, 12, 5, 2021: 291-310</a></dd>
       <br/>
 
       <dd><a href="/assets/media-contributions/Bleich2021PGIMuslims.pdf" download>“<u>Media Portrayals of Muslims: A Comparative Sentiment Analysis of American Newspapers, 1996–2015</u>,” Erik Bleich and A. Maurits van der Veen, <i>Politics, Groups, and Identities</i>, 9, 1, 2021: 20-39</a></dd>
