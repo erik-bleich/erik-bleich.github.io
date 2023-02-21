@@ -39,6 +39,8 @@ title: The Lab
     <h3>Former student members of the lab include:</h3>
     <ul>
     <li>Nicolas Pantelick, 2024</li>
+    <li>Eliza King Freedman, 2023</li>
+    <li>Abigail Tinsley, 2023</li>
     <li>Isabel Chandler, 2022</li>
     <li>Emma Brown, 2021</li>
     <li>Lukas Kauth, 2021</li>

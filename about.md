@@ -36,16 +36,27 @@ title: About Us
 
     <!-- <div style="margin-top:100px"> </div> -->
 
+    <h3 class="name-header">Husam AlZubaidy</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/alzubaidy.jpg" alt="" height="350px" width="250px"/>
+    <p class="bio-text">Husam AlZubaidy, Middlebury College ’23, is an International Politics and Economics Major with a specialization in the Arabic language. He joined the lab in Spring 2023 after completing the Fall term data methods course where he researched refugee portrayals in US and UK media, especially coverage of Syrian and Ukrainian refugees. </p>
+
+    <!-- <div style="margin-top:215px"> </div> -->
+
+    <h3 class="name-header">Andy Cao</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/cao.jpg" alt="" height="3500px" width="250px"/>
+    <p class="bio-text">Andrey (Andy) Cao, Middlebury College ’25, is a Sociology and Environmental Policy joint major from Western Massachusetts. He joined the lab in Spring 2023, and he is excited to study and engage with the role of identity politics in increasing polarization. </p>
+
+    <!-- <div style="margin-top:215px"> </div> -->
+
     <h3 class="name-header">Abigail Chang</h3>
     <img class="bio-img" src="/assets/images/bio-pics/ChangHeadshot.png" alt="" height="250px" width="350px"/>
     <p class="bio-text">Abigail Chang, Middlebury College ’23, is an English major and linguistics minor from Connecticut. She joined the lab in 2021 after taking the winter term methods course, during which she studied media portrayals of far-right and far-left groups. </p>
 
     <!-- <div style="margin-top:215px"> </div> -->
 
-
-    <h3 class="name-header">Eliza King Freedman</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/FreedmanHeadshot.jpg" alt="" height="250px" width="350px"/>
-    <p class="bio-text">Eliza King Freedman, Middlebury College '23, is a Political Science major and an Arabic minor from New York City. She joined the lab after working at the Middlebury Institute for International Studies at the Center on Terrorism, Extremism, and Counterterrorism and the James Martin Center for Nonproliferation Studies. She brings interests in online extremism and cyberwarfare to her studies in the lab. </p>
+    <h3 class="name-header">Arthur Martins</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/martins.jpeg" alt="" height="3500px" width="250px"/>
+    <p class="bio-text">Arthur Martins, Middlebury College ’23.5, is an English and Gender, Sexuality, and Feminist Studies major from Brasília, Brazil. He joined the lab in January 2023 and is interested in mapping how culture wars evolve and adapt across borders, especially at the intersection of race, gender, and sexuality. </p>
 
     <!-- <div style="margin-top:215px"> </div> -->
 
@@ -53,13 +64,6 @@ title: About Us
     <h3 class="name-header">Nikki Sadat</h3>
     <img class="bio-img" src="/assets/images/bio-pics/SadatHeadshot.jpg" alt="" height="280px" width="280px"/>
     <p class="bio-text">Nikki Sadat, Middlebury College '23.5, is an International and Global European Studies major and Political Science minor from Los Angeles, California. She joined the lab in spring 2022 and is interested in studying media portrayals of Iran and the Iranian diaspora. </p>
-
-    <!-- <div style="margin-top:215px"> </div> -->
-
-
-    <h3 class="name-header">Abbey Tinsley</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/TinsleyHeadshot.jpeg" alt="" height="280px" width="280px"/>
-    <p class="bio-text">Abbey Tinsley, Middlebury College ’23, is a Political Science and Spanish double major. She joined the lab in the spring 2022, and is excited to continue the lab’s work on tracking the evolution of what it means to be “politically correct” as well as investigate the sentiments surrounding abortion in 2022. </p>
 
 
 
