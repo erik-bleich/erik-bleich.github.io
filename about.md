@@ -37,19 +37,19 @@ title: About Us
     <!-- <div style="margin-top:100px"> </div> -->
 
     <h3 class="name-header">Andy Cao</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/cao.jpg" alt="" height="350px" width="250px"/>
+    <img class="bio-img" src="/assets/images/bio-pics/cao.jpg" alt="" height="325px" width="250px"/>
     <p class="bio-text">Andrey (Andy) Cao, Middlebury College ’25, is a Sociology and Environmental Policy joint major from Western Massachusetts. He joined the lab in Spring 2023, and he is excited to study and engage with the role of identity politics in increasing polarization. </p>
 
     <!-- <div style="margin-top:215px"> </div> -->
 
     <h3 class="name-header">Noah Rizika</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/rizika.jpg" alt="" height="350px" width="350px"/>
+    <img class="bio-img" src="/assets/images/bio-pics/rizika.jpg" alt="" height="325px" width="250px"/>
     <p class="bio-text">Noah Rizika, Middlebury College ’24, is a Biochemistry major from Los Angeles, California. He joined the lab in spring 2024 and is interested in studying media portrayals of different crises and contributing to the Python scripts that make our data analysis possible. </p>
 
     <!-- <div style="margin-top:215px"> </div> -->
 
     <h3 class="name-header">Abby Ward</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/ward.png" alt="" height="350px" width="250px"/>
+    <img class="bio-img" src="/assets/images/bio-pics/ward.png" alt="" height="325px" width="250px"/>
     <p class="bio-text">Abby Ward, Middlebury College ’25, is a Political Science Major from New York. She joined the lab in Spring 2023 and is interested in data visualization and studying the evolution of the culture wars, specifically relating to education. </p>
 
 
