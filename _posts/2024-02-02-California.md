@@ -16,7 +16,7 @@ Articles that mentioned California spiked dramatically in 2018. This is largely 
 
 
 <p class="aligncenter">
- <img src="/assets/images/california.png" alt="" class="graph-image">
+ <img src="/assets/images/california2.png" alt="" class="graph-image">
  </p>
  <style>
 .aligncenter {
@@ -33,5 +33,7 @@ Lastly, The New York Times highlights the housing crisis and homeless epidemic i
 As a result of this portrayal, the overall tone of all articles has also become more negative. Tone is measured by the ratio of positive to negative words within an article. Before 2018, the average tone of articles that mentioned “California” was at times somewhat negative, but equally often decidedly positive. However, after increased coverage of the three themes in 2018, the average tone became purely negative.
 
 The once-glimmering portrayal of California has been replaced by the portrait of a state in turmoil. Since 2018, New York Times coverage has increased dramatically – while largely focusing on the threatening realities of climate change, law and order, and the housing crisis. This transformation challenges the very essence of California’s identity. This new image threatens to reshape public perception into one fueled by fear and uncertainty – weaving an image of a turbulent future. Within this new media landscape, can the Golden State revive the spirit of ‘California Dreamin’ before it’s too late?
+
+–Nikki Sadat
 
 Methodological note: I examined all 225,508 articles containing the root word “California” in The New York Times published between January 1, 2000, and December 31, 2023. I then isolated all 35,204 from the data set that mentioned California three or more times to eliminate articles that are not fundamentally about the state. For additional information regarding our methods, see <a href="https://www.mediaandminorities.org/methods/"><u>here</u></a>. Photo credit: <a href="https://unsplash.com/photos/a-beach-filled-with-lots-of-people-and-umbrellas-AQ9cQGQ3p5A"><u>Tom Briskey, Unsplash</u></a>.
