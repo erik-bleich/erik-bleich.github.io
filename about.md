@@ -37,7 +37,7 @@ title: About Us
     <!-- <div style="margin-top:100px"> </div> -->
 
     <h3 class="name-header">Andy Cao</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/cao.jpg" alt="" height="325px" width="250px"/>
+    <img class="bio-img" src="/assets/images/bio-pics/cao.jpg" alt="" height="315px" width="250px"/>
     <p class="bio-text">Andrey (Andy) Cao, Middlebury College ’25, is a Sociology and Environmental Policy joint major from Western Massachusetts. He joined the lab in Spring 2023, and he is excited to study and engage with the role of identity politics in increasing polarization. </p>
 
     <!-- <div style="margin-top:215px"> </div> -->
