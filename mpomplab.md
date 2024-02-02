@@ -39,6 +39,9 @@ title: The Lab
     <h3>Former student members of the lab include:</h3>
     <ul>
     <li>Nicolas Pantelick, 2024</li>
+    <li>Nikki Sadat, 2023.5</li>
+    <li>Husam AlZubaidy, 2023</li>
+    <li>Abigail Chang, 2023</li>
     <li>Eliza King Freedman, 2023</li>
     <li>Abigail Tinsley, 2023</li>
     <li>Isabel Chandler, 2022</li>

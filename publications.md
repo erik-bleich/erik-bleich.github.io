@@ -22,7 +22,7 @@ title: Publications
         <p>The Media Portrayals of Minorities Project has generated scholarship that has been published in a range of venues. Our earliest publications drew largely on a human-coded database of article headlines. More recent work builds on computer-assisted methods of data analysis.</p>
 
 
-      <dd><a href="https://global.oup.com/academic/product/covering-muslims-9780197611722?cc=us&lang=en&"><u><i>Covering Muslims: American Newspapers in Comparative Perspective</i></u>, Erik Bleich and A. Maurits van der Veen, Oxford University Press, 2022</a></dd>
+      <dd><a href="https://global.oup.com/academic/product/covering-muslims-9780197611722?cc=us&lang=en&"><u><i>Covering Muslims: American Newspapers in Comparative Perspective</i></u>, Erik Bleich and A. Maurits van der Veen, Oxford University Press, 2022. Winner of the International Studies Association Best Book Award from the International Communications Section</a></dd>
       <br/>
 
       <dd><a href="/assets/media-contributions/Bleich2022PoP.pdf" download>“<u>Critical Dialogue - Covering Muslims: American Newspapers in Comparative Perspective and The Struggle for Inclusion: Muslim Minorities and the Democratic Ethos</u>,” A. Maurits van der Veen, Erik Bleich, Elisabeth Ivarsflaten, and Paul Sniderman, <i>Perspectives on Politics</i>, 20, 4, 2022: 1403-07</a></dd>
