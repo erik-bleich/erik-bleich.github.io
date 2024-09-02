@@ -44,18 +44,18 @@ title: About Us
 
     <h3 class="name-header">YiJun Kim</h3>
     <img class="bio-img" src="/assets/images/bio-pics/kim.png" alt="" height="300px" width="300px"/>
-    <p class="bio-text">YiJun Kim, Middlebury College ‘26, is a Political Science and Statistics double major from Las Vegas, Nevada. She joined the lab Fall 2024 and is interested studying media portrayals of Asian Americans and mental illnesses.  </p>
+    <p class="bio-text">YiJun Kim, Middlebury College ’6, is a Political Science and Statistics double major from Las Vegas, Nevada. She joined the lab Fall 2024 and is interested studying media portrayals of Asian Americans and mental illnesses. </p>
 
     <!-- <div style="margin-top:215px"> </div> -->
 
     <h3 class="name-header">Daniza Tazabekova</h3>
     <img class="bio-img" src="/assets/images/bio-pics/tazabekova.png" alt="" height="300px" width="300px"/>
-    <p class="bio-text">Daniza Tazabekova, Middlebury College '26, is a political science major from Brooklyn, New York. She joined the lab in Fall 2024 and is interested in data visualization and studying media portrayals of racial minorities and American political institutions. </p>
+    <p class="bio-text">Daniza Tazabekova, Middlebury College ’26, is a political science major from Brooklyn, New York. She joined the lab in Fall 2024 and is interested in data visualization and studying media portrayals of racial minorities and American political institutions. </p>
 
     <!-- <div style="margin-top:215px"> </div> -->
 
     <h3 class="name-header">Abby Ward</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/ward2.png" alt="" height="300px" width="2750px"/>
+    <img class="bio-img" src="/assets/images/bio-pics/ward2.png" alt="" height="300px" width="275px"/>
     <p class="bio-text">Abby Ward, Middlebury College ’25, is a Political Science Major from New York. She joined the lab in Spring 2023 and is interested in data visualization and studying media coverage of American political institutions. </p>
 
 
