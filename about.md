@@ -55,7 +55,7 @@ title: About Us
     <!-- <div style="margin-top:215px"> </div> -->
 
     <h3 class="name-header">Abby Ward</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/ward2.png" alt="" height="300px" width="300px"/>
+    <img class="bio-img" src="/assets/images/bio-pics/ward2.png" alt="" height="300px" width="2750px"/>
     <p class="bio-text">Abby Ward, Middlebury College ’25, is a Political Science Major from New York. She joined the lab in Spring 2023 and is interested in data visualization and studying media coverage of American political institutions. </p>
 
 
