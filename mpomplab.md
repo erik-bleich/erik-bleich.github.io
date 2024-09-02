@@ -38,6 +38,8 @@ title: The Lab
     <dt>
     <h3>Former student members of the lab include:</h3>
     <ul>
+    <li>Eli Richardson, 2024</li>
+    <li>Noah Rizika, 2024</li>
     <li>Nicolas Pantelick, 2024</li>
     <li>Nikki Sadat, 2023.5</li>
     <li>Husam AlZubaidy, 2023</li>

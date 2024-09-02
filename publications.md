@@ -82,7 +82,11 @@ title: Publications
 
     <h3>Media Contributions</h3>
 
-     <dd><a href="https://www.washingtonpost.com/politics/2020/10/02/how-do-newspapers-cover-racial-religious-minorities-heres-data/">“<span class="underline-active">How do newspapers cover racial and religious minorities? Here’s the data.</span>” Joshua Tucker, Washington Post/Monkey Cage, October 2, 2020</a></dd>
+    <dd><a href="https://yaleclimateconnections.org/2024/06/whats-the-deal-with-terms-like-greenhouse-effect-global-warming-climate-change-and-the-climate-emergency/">“<span class="underline-active">What’s the deal with terms like “greenhouse effect,” “global warming,” “climate change,” and “the climate emergency”?</span>” Yale Climate Connections, June 5, 2024</a></dd>
+
+    <br/>
+
+    <dd><a href="https://www.washingtonpost.com/politics/2020/10/02/how-do-newspapers-cover-racial-religious-minorities-heres-data/">“<span class="underline-active">How do newspapers cover racial and religious minorities? Here’s the data.</span>” Joshua Tucker, Washington Post/Monkey Cage, October 2, 2020</a></dd>
 
      <br/>
 
