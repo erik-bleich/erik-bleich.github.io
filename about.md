@@ -44,7 +44,7 @@ title: About Us
 
     <h3 class="name-header">YiJun Kim</h3>
     <img class="bio-img" src="/assets/images/bio-pics/kim.png" alt="" height="300px" width="300px"/>
-    <p class="bio-text">YiJun Kim, Middlebury College ’6, is a Political Science and Statistics double major from Las Vegas, Nevada. She joined the lab Fall 2024 and is interested studying media portrayals of Asian Americans and mental illnesses. </p>
+    <p class="bio-text">YiJun Kim, Middlebury College ’26, is a Political Science and Statistics double major from Las Vegas, Nevada. She joined the lab Fall 2024 and is interested studying media portrayals of Asian Americans and mental illnesses. </p>
 
     <!-- <div style="margin-top:215px"> </div> -->
 
