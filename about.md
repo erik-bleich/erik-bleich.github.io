@@ -40,7 +40,19 @@ title: About Us
     <img class="bio-img" src="/assets/images/bio-pics/cao.jpg" alt="" height="315px" width="250px"/>
     <p class="bio-text">Andrey (Andy) Cao, Middlebury College ’25, is a Sociology and Environmental Policy joint major from Western Massachusetts. He joined the lab in Spring 2023, and he is excited to study and engage with the role of identity politics in increasing polarization. </p>
 
-    <!-- <div style="margin-top:215px"> </div> -->
+    <!-- <div style="margin-top:100px"> </div> -->
+
+    <h3 class="name-header">Ting Cui</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/cui.png" alt="" height="315px" width="250px"/>
+    <p class="bio-text">Ting Cui, Middlebury College ’25, is a Political Science major from Baltimore, Maryland. She joined the lab Spring 2025 and is interested in how the media discuss immigration, abortion, and migration. </p>
+    
+    <!-- <div style="margin-top:100px"> </div> -->
+
+    <h3 class="name-header">Eva Janairo</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/janairo.jpg" alt="" height="315px" width="250px"/>
+    <p class="bio-text">Evangelise (Eva) Janairo, Middlebury College ’28, is an undeclared prospective Sociology major from Newton, Massachusetts. She joined the lab Spring of 2025 and is interested in studying media portrayals of racial minorities and stereotypes. </p>
+  
+      <!-- <div style="margin-top:215px"> </div> -->
 
     <h3 class="name-header">YiJun Kim</h3>
     <img class="bio-img" src="/assets/images/bio-pics/kim.png" alt="" height="300px" width="300px"/>
