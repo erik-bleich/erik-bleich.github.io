@@ -2,7 +2,7 @@
 layout: post
 title: DEI Scandals in the Media
 description: Denigrating “DEI hires” in public institutions
-image: assets/images/DEIscandalsCover.png
+image: assets/images/DEIscandalscover.png
 ---
 
 Many companies and institutions that once embraced Diversity, Equity, and Inclusion initiatives have recently <a href="https://www.washingtonpost.com/business/interactive/2025/dei-companies-sec-filings/"><u>turned away</u></a> from them, often in the face of public backlash and <a href="https://www.cfr.org/blog/trumps-dei-purge-military-puts-us-national-security-risk"><u>political controversy</u></a>. The media have reflected and reinforced a broader negative shift in how DEI is perceived in the workplace and in higher education. Perhaps most pointedly, some coverage of “scandals” not only draws attention to institutions but also shines a spotlight on the specific people targeted by anti-DEI actions. 
