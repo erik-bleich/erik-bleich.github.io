@@ -2,7 +2,7 @@
 layout: post
 title: Constitutional Crises Then and Now
 description: Media coverage of 2000 and 2025
-image: assets/images/constitutionalcrisis.jpg
+image: assets/images/constitutionalcrisis.png
 ---
 
 <i>Are we in a constitutional crisis?</i> It’s a question that has largely defined the early months of Trump’s second presidency for everyone desperately trying to make sense of the upending of norms taking place around them. Looking back at recent American history, the only other time we seriously asked this question was in the wake of the 2000 election. Though there was a spike in discussions of constitutional crises in the media in 2000 as in 2025, these moments are vastly different in nature. 
