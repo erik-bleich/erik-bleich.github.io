@@ -17,7 +17,7 @@ With the increased coverage on race and the BLM movement, mentions of “systemi
 
 
 <p class="aligncenter">
- <img src="/assets/images/SysRacBar.png" alt="" class="graph-image">
+ <img src="/assets/images/SystemicBar.jpg" alt="" class="graph-image">
  </p>
  <style>
 .aligncenter {
