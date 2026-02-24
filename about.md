@@ -37,7 +37,7 @@ title: About Us
     <!-- <div style="margin-top:100px"> </div> -->
 
     <h3 class="name-header">Bennett Applbaum</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/Applbaum.jpg" alt="" height="300px" width="300px"/>
+    <img class="bio-img" src="/assets/images/bio-pics/Applbaum.jpg" alt="" height="280px" width="300px"/>
     <p class="bio-text">Bennett Applbaum, Middlebury College ’28, is a History and Political Science joint major from Dallas, Texas. He joined the lab in Spring 2026 and is interested in studying media coverage of political parties, organizations, and institutions. </p>
 
     <!-- <div style="margin-top:100px"> </div> -->
@@ -62,7 +62,7 @@ title: About Us
       <!-- <div style="margin-top:215px"> </div> -->
 
     <h3 class="name-header">Tamaki Nakajima</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/Nakajima.png" alt="" height="300px" width="275px"/>
+    <img class="bio-img" src="/assets/images/bio-pics/Nakajima.png" alt="" height="300px" width="250px"/>
     <p class="bio-text">Tamaki Nakajima, Middlebury College ’29, is an undeclared prospective Molecular Biology & Biochemistry major from Tokyo, Japan. She joined the lab Spring of 2029 and is interested in data visualizations and studying the portrayals of science and health related fields in media. </p>
 
 
@@ -75,4 +75,5 @@ title: About Us
 
 
 </section>
+
 
