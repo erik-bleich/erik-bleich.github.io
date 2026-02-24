@@ -44,7 +44,7 @@ title: About Us
 
     <h3 class="name-header">Riley Foushee</h3>
     <img class="bio-img" src="/assets/images/bio-pics/Foushee.JPG" alt="" height="300px" width="250px"/>
-    <p class="bio-text">Riley Foushee, Middlebury '27, is a Political Science and Statistics major from Westport, Connecticut. He joined the lab Spring 2026 and is interested in studying media coverage of elected officials and political polarization. </p>
+    <p class="bio-text">Riley Foushee, Middlebury ’27, is a Political Science and Statistics major from Westport, Connecticut. He joined the lab Spring 2026 and is interested in studying media coverage of elected officials and political polarization. </p>
     
     <!-- <div style="margin-top:100px"> </div> -->
 
@@ -75,5 +75,6 @@ title: About Us
 
 
 </section>
+
 
 
