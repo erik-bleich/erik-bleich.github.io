@@ -63,7 +63,7 @@ title: About Us
 
     <h3 class="name-header">Tamaki Nakajima</h3>
     <img class="bio-img" src="/assets/images/bio-pics/Nakajima.png" alt="" height="300px" width="250px"/>
-    <p class="bio-text">Tamaki Nakajima, Middlebury College ’29, is an undeclared prospective Molecular Biology & Biochemistry major from Tokyo, Japan. She joined the lab Spring of 2029 and is interested in data visualizations and studying the portrayals of science and health related fields in media. </p>
+    <p class="bio-text">Tamaki Nakajima, Middlebury College ’29, is an undeclared prospective Molecular Biology & Biochemistry major from Tokyo, Japan. She joined the lab Spring of 2026 and is interested in data visualizations and studying the portrayals of science and health related fields in media. </p>
 
 
     <!-- <div style="margin-top:215px"> </div> -->
@@ -75,6 +75,7 @@ title: About Us
 
 
 </section>
+
 
 
 
