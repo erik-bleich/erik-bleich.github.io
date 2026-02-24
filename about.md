@@ -36,21 +36,21 @@ title: About Us
 
     <!-- <div style="margin-top:100px"> </div> -->
 
-    <h3 class="name-header">Andy Cao</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/cao.jpg" alt="" height="300px" width="250px"/>
-    <p class="bio-text">Andrey (Andy) Cao, Middlebury College ’25, is a Sociology and Environmental Policy joint major from Western Massachusetts. He joined the lab in Spring 2023, and he is excited to study and engage with the role of identity politics in increasing polarization. </p>
+    <h3 class="name-header">Bennett Applbaum</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/Applbaum.jpg" alt="" height="300px" width="300px"/>
+    <p class="bio-text">Bennett Applbaum, Middlebury College ’28, is a History and Political Science joint major from Dallas, Texas. He joined the lab in Spring 2026 and is interested in studying media coverage of political parties, organizations, and institutions. </p>
 
     <!-- <div style="margin-top:100px"> </div> -->
 
-    <h3 class="name-header">Ting Cui</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/cui.png" alt="" height="300px" width="250px"/>
-    <p class="bio-text">Ting Cui, Middlebury College ’25, is a Political Science major from Baltimore, Maryland. She joined the lab Spring 2025 and is interested in how the media discuss immigration, abortion, and migration. </p>
+    <h3 class="name-header">Riley Foushee</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/Foushee.JPG" alt="" height="300px" width="250px"/>
+    <p class="bio-text">Riley Foushee, Middlebury '27, is a Political Science and Statistics major from Westport, Connecticut. He joined the lab Spring 2026 and is interested in studying media coverage of elected officials and political polarization. </p>
     
     <!-- <div style="margin-top:100px"> </div> -->
 
     <h3 class="name-header">Eva Janairo</h3>
     <img class="bio-img" src="/assets/images/bio-pics/janairo.jpg" alt="" height="300px" width="300px"/>
-    <p class="bio-text">Evangelise (Eva) Janairo, Middlebury College ’28, is an undeclared prospective Sociology major from Newton, Massachusetts. She joined the lab Spring of 2025 and is interested in studying media portrayals of racial minorities and stereotypes. </p>
+    <p class="bio-text">Evangelise (Eva) Janairo, Middlebury College ’28, is a Psychology major from Newton, Massachusetts. She joined the lab Spring of 2025 and is interested in studying media portrayals of racial minorities and stereotypes. </p>
   
       <!-- <div style="margin-top:215px"> </div> -->
 
@@ -58,18 +58,21 @@ title: About Us
     <img class="bio-img" src="/assets/images/bio-pics/kim.png" alt="" height="300px" width="300px"/>
     <p class="bio-text">YiJun Kim, Middlebury College ’26, is a Political Science and Statistics double major from Las Vegas, Nevada. She joined the lab Fall 2024 and is interested studying media portrayals of Asian Americans and mental illnesses. </p>
 
+  
+      <!-- <div style="margin-top:215px"> </div> -->
+
+    <h3 class="name-header">Tamaki Nakajima</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/Nakajima.png" alt="" height="300px" width="275px"/>
+    <p class="bio-text">Tamaki Nakajima, Middlebury College ’29, is an undeclared prospective Molecular Biology & Biochemistry major from Tokyo, Japan. She joined the lab Spring of 2029 and is interested in data visualizations and studying the portrayals of science and health related fields in media. </p>
+
+
     <!-- <div style="margin-top:215px"> </div> -->
 
     <h3 class="name-header">Daniza Tazabekova</h3>
     <img class="bio-img" src="/assets/images/bio-pics/tazabekova.png" alt="" height="300px" width="300px"/>
     <p class="bio-text">Daniza Tazabekova, Middlebury College ’26, is a political science major from Brooklyn, New York. She joined the lab in Fall 2024 and is interested in data visualization and studying media portrayals of racial minorities and American political institutions. </p>
 
-    <!-- <div style="margin-top:215px"> </div> -->
-
-    <h3 class="name-header">Abby Ward</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/ward2.png" alt="" height="300px" width="275px"/>
-    <p class="bio-text">Abby Ward, Middlebury College ’25, is a Political Science Major from New York. She joined the lab in Spring 2023 and is interested in data visualization and studying media coverage of American political institutions. </p>
-
 
 
 </section>
+
