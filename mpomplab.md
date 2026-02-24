@@ -38,6 +38,9 @@ title: The Lab
     <dt>
     <h3>Former student members of the lab include:</h3>
     <ul>
+    <li>Ting Cui, 2025.5</li>
+    <li>Andrey Cao, 2025</li>
+    <li>Abby Ward, 2025</li>    
     <li>Eli Richardson, 2024</li>
     <li>Noah Rizika, 2024</li>
     <li>Nicolas Pantelick, 2024</li>
