@@ -22,9 +22,15 @@ title: Publications
         <p>The Media Portrayals of Minorities Project has generated scholarship that has been published in a range of venues. Our earliest publications drew largely on a human-coded database of article headlines. More recent work builds on computer-assisted methods of data analysis.</p>
 
 
-      <dd><a href="https://doi.org/10.1371/journal.pone.0313092"><u>"The Advantages of Lexicon-based Sentiment Analysis in an Age of Machine Learning," A. Maurits van der Veen and Erik Bleich, <i>PLOS ONE</i></u></a></dd>
+      <dd><a href="https://doi.org/10.1371/journal.pone.0313092"><u>"The Advantages of Lexicon-based Sentiment Analysis in an Age of Machine Learning</u>," A. Maurits van der Veen and Erik Bleich, <i>PLOS ONE</i>, 2025</a></dd>
       <br/>
 
+      <dd><a href="https://doi.org/10.1177/00323217251361966"><u>"The Politics of Language: Politicized Semantic Change, Pejoration, and the Case of ‘Woke’</u>," Erik Bleich, Husam AlZubaidy, Andrey Cao, Abigail Chang, Nikki Sadat, Abby Ward, and A. Maurits van der Veen, <i>Political Studies</i>, 2025</a></dd>
+      <br/>
+      
+      <dd><a href="https://doi.org/10.1177/00207152251358849"><u>"Social Proximity, Discursive Opportunity Structures, and the Diffusion of the Culture Wars: The Case of ‘Woke’ in France</u>," Erik Bleich, Gyula Zsombok, and A. Maurits van der Veen, <i>International Journal of Comparative Sociology</i>, 2025</a></dd>
+      <br/>
+      
       <dd><a href="https://global.oup.com/academic/product/covering-muslims-9780197611722?cc=us&lang=en&"><u><i>Covering Muslims: American Newspapers in Comparative Perspective</i></u>, Erik Bleich and A. Maurits van der Veen, Oxford University Press, 2022. Winner of the International Studies Association Best Book Award from the International Communications Section</a></dd>
       <br/>
 
